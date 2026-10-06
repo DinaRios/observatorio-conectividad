@@ -1,0 +1,61 @@
+name: Publicar observatorio
+
+on:
+  schedule:
+    - cron: "0 11 * * *"
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  construir:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: repositorio/observatorio
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: repositorio/observatorio/requirements.txt
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Construir el sitio
+        env:
+          SP_MODO: ${{ vars.SP_MODO }}
+          SP_TENANT_ID: ${{ secrets.SP_TENANT_ID }}
+          SP_CLIENT_ID: ${{ secrets.SP_CLIENT_ID }}
+          SP_CLIENT_SECRET: ${{ secrets.SP_CLIENT_SECRET }}
+          SP_HOST: ${{ vars.SP_HOST }}
+          SP_SITIO: ${{ vars.SP_SITIO }}
+          SP_RUTA: ${{ vars.SP_RUTA }}
+          SP_ENLACE: ${{ secrets.SP_ENLACE }}
+        run: python publicar.py --ficha ../ficha
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: repositorio/observatorio/sitio
+
+  desplegar:
+    needs: construir
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.pages.outputs.page_url }}
+    steps:
+      - id: pages
+        uses: actions/deploy-pages@v4
