@@ -1,0 +1,1463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>CCTV CHIGORODÓ aprobado.kml</name>
+	<StyleMap id="m_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_homegardenbusiness">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_homegardenbusiness</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_homegardenbusiness</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_picnic">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_picnic</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_picnic</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_triangle">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_triangle</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_triangle0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_triangle0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_triangle0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_triangle1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin69</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin65</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin210">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin310</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin50</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin31">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin310">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin301</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin161</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin52">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin03</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_homegardenbusiness">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_picnic">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/picnic.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.9</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_triangle0">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_triangle1">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>807f00ff</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin03">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>99ffaa00</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin16">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>990000ff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin161">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>990000ff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin24">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>99ff00aa</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>8000ffff</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin50">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>8000ffff</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>80ff5500</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin65">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>80ff00ff</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_homegardenbusiness">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_picnic">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/picnic.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.9</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_triangle">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_triangle0">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>80ff5500</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>8000ffff</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin15">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>99ff00aa</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>807f00ff</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin30">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>990000ff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin301">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>990000ff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin310">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>8000ffff</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>99ffaa00</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin69">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>80ff00ff</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>CCTV CHIGORODÓ</name>
+		<open>1</open>
+		<Folder>
+			<name>EES</name>
+			<Placemark>
+				<name>I.E MADRE LAURA</name>
+				<description>7.88455693655919, -76.63468562698792</description>
+				<LookAt>
+					<gx:TimeStamp><when>2023-08-31T09:57:55Z</when>
+</gx:TimeStamp>
+					<longitude>-76.51013527853303</longitude>
+					<latitude>7.794146340801935</latitude>
+					<altitude>0</altitude>
+					<heading>-0.03565492277640746</heading>
+					<tilt>42.55799322484859</tilt>
+					<range>110682.6826418692</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-76.63468562698792,7.884557000000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>I. E. Luis Carlos Galán Sarmiento</name>
+				<description>7.755985N 76.655623W</description>
+				<LookAt>
+					<gx:TimeStamp><when>2023-08-31T09:57:55Z</when>
+</gx:TimeStamp>
+					<longitude>-76.65455228285872</longitude>
+					<latitude>7.757886609394624</latitude>
+					<altitude>0</altitude>
+					<heading>-0.000425383328091947</heading>
+					<tilt>15.73453279514595</tilt>
+					<range>797.3201189710419</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-76.65562300000001,7.757887,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>RED 2.0</name>
+			<Document>
+				<name>Cámaras Chigorodo</name>
+				<gx:CascadingStyle kml:id="__managed_style_2F0C47DDEF318585E386">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2<![CDATA[&]]>id=2000<![CDATA[&]]>scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"></hotSpot>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.4389</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle><gx:CascadingStyle kml:id="__managed_style_11D5FDC3DF318585E386">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2<![CDATA[&]]>id=2000<![CDATA[&]]>scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"></hotSpot>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>1.62594</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+				<StyleMap id="__managed_style_0710DE6503318585E3860">
+					<Pair>
+						<key>normal</key>
+						<styleUrl>#failed7</styleUrl>
+					</Pair>
+					<Pair>
+						<key>highlight</key>
+						<styleUrl>#failed8</styleUrl>
+					</Pair>
+				</StyleMap>
+				<Style id="failed7">
+					<IconStyle>
+						<scale>0.9</scale>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/shapes/webcam.png</href>
+						</Icon>
+						<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+					</IconStyle>
+					<LabelStyle>
+						<scale>0.9</scale>
+					</LabelStyle>
+				</Style>
+				<Style id="failed8">
+					<IconStyle>
+						<scale>0.9</scale>
+						<Icon>
+							<href>http://maps.google.com/mapfiles/kml/shapes/webcam.png</href>
+						</Icon>
+						<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+					</IconStyle>
+					<LabelStyle>
+						<scale>0.9</scale>
+					</LabelStyle>
+				</Style>
+				<Placemark id="05C3EDA54E318585E385">
+					<name>Entrada Carepa</name>
+					<LookAt>
+						<longitude>-76.6805866363439</longitude>
+						<latitude>7.670847133966985</latitude>
+						<altitude>34.94064171294099</altitude>
+						<heading>345.2352869697627</heading>
+						<tilt>0</tilt>
+						<range>446.952654085908</range>
+						<altitudeMode>absolute</altitudeMode>
+						<gx:fovy>35</gx:fovy>
+					</LookAt>
+					<styleUrl>#__managed_style_0710DE6503318585E3860</styleUrl>
+					<Point>
+						<coordinates>-76.6805866363439,7.670847133966985,34.94064171294099</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0EC2256F913185878230">
+					<name>Comercio</name>
+					<LookAt>
+						<longitude>-76.6823600667899</longitude>
+						<latitude>7.670642051520499</latitude>
+						<altitude>33.85437177110698</altitude>
+						<heading>261.4813023084943</heading>
+						<tilt>0</tilt>
+						<range>1172.442108477844</range>
+						<altitudeMode>absolute</altitudeMode>
+						<gx:fovy>35</gx:fovy>
+					</LookAt>
+					<styleUrl>#__managed_style_0710DE6503318585E3860</styleUrl>
+					<Point>
+						<coordinates>-76.6823600667899,7.670642051520499,33.85437177110698</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0B45D70A79318587DE33">
+					<name>Zona Bancaria</name>
+					<LookAt>
+						<longitude>-76.68153637231724</longitude>
+						<latitude>7.669960628230878</latitude>
+						<altitude>34.09952402214866</altitude>
+						<heading>261.4812864149347</heading>
+						<tilt>0</tilt>
+						<range>703.3030218911881</range>
+						<altitudeMode>absolute</altitudeMode>
+						<gx:fovy>35</gx:fovy>
+					</LookAt>
+					<styleUrl>#__managed_style_0710DE6503318585E3860</styleUrl>
+					<Point>
+						<coordinates>-76.68153637231724,7.669960628230878,34.09952402214866</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="077AA308F73185889B8C">
+					<name>Rompoy</name>
+					<LookAt>
+						<longitude>-76.68367599173025</longitude>
+						<latitude>7.66983835366711</latitude>
+						<altitude>35.05845128607464</altitude>
+						<heading>265.4287162058131</heading>
+						<tilt>0</tilt>
+						<range>840.8271222715848</range>
+						<altitudeMode>absolute</altitudeMode>
+						<gx:fovy>35</gx:fovy>
+					</LookAt>
+					<styleUrl>#__managed_style_0710DE6503318585E3860</styleUrl>
+					<Point>
+						<coordinates>-76.68367599173025,7.66983835366711,35.05845128607464</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="06565301B23185897BC5">
+					<name>Parque Principal</name>
+					<LookAt>
+						<longitude>-76.68477968365981</longitude>
+						<latitude>7.672702937407224</latitude>
+						<altitude>34.27678695279044</altitude>
+						<heading>265.4285123667821</heading>
+						<tilt>0</tilt>
+						<range>424.6553399498226</range>
+						<altitudeMode>absolute</altitudeMode>
+						<gx:fovy>35</gx:fovy>
+					</LookAt>
+					<styleUrl>#__managed_style_0710DE6503318585E3860</styleUrl>
+					<Point>
+						<coordinates>-76.68477968365981,7.672702937407224,34.27678695279044</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="00C82A58A831858A4FE3">
+					<name>Entrada Terminal</name>
+					<LookAt>
+						<longitude>-76.68006942901899</longitude>
+						<latitude>7.668611427313709</latitude>
+						<altitude>35.02669371544543</altitude>
+						<heading>309.735294737366</heading>
+						<tilt>0</tilt>
+						<range>497.7253178226238</range>
+						<altitudeMode>absolute</altitudeMode>
+						<gx:fovy>35</gx:fovy>
+					</LookAt>
+					<styleUrl>#__managed_style_0710DE6503318585E3860</styleUrl>
+					<Point>
+						<coordinates>-76.68006942901899,7.668611427313709,35.02669371544543</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0B3B17C8CA31858AEE9E">
+					<name>Estación Terpel</name>
+					<LookAt>
+						<longitude>-76.67829025709305</longitude>
+						<latitude>7.666973371834309</latitude>
+						<altitude>34.09958414612024</altitude>
+						<heading>309.7355257734656</heading>
+						<tilt>0</tilt>
+						<range>642.2953620531916</range>
+						<altitudeMode>absolute</altitudeMode>
+						<gx:fovy>35</gx:fovy>
+					</LookAt>
+					<styleUrl>#__managed_style_0710DE6503318585E3860</styleUrl>
+					<Point>
+						<coordinates>-76.67829025709305,7.666973371834309,34.09958414612024</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0E5218655631858C2518">
+					<name>Colegio</name>
+					<LookAt>
+						<longitude>-76.67775926111239</longitude>
+						<latitude>7.669887977036932</latitude>
+						<altitude>33.24955100584938</altitude>
+						<heading>306.6138265915079</heading>
+						<tilt>0</tilt>
+						<range>964.8567607527368</range>
+						<altitudeMode>absolute</altitudeMode>
+						<gx:fovy>35</gx:fovy>
+					</LookAt>
+					<styleUrl>#__managed_style_0710DE6503318585E3860</styleUrl>
+					<Point>
+						<coordinates>-76.67775926111239,7.669887977036932,33.24955100584938</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="020132307431858CA4F6">
+					<name>Las Playas</name>
+					<LookAt>
+						<longitude>-76.67394053659213</longitude>
+						<latitude>7.668175087031105</latitude>
+						<altitude>33.10676035186945</altitude>
+						<heading>306.6143042007576</heading>
+						<tilt>0</tilt>
+						<range>344.3584938862477</range>
+						<altitudeMode>absolute</altitudeMode>
+						<gx:fovy>35</gx:fovy>
+					</LookAt>
+					<styleUrl>#__managed_style_0710DE6503318585E3860</styleUrl>
+					<Point>
+						<coordinates>-76.67394053659213,7.668175087031105,33.10676035186945</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="073177604031858D3759">
+					<name>Caí El Bosque</name>
+					<LookAt>
+						<longitude>-76.67587283858104</longitude>
+						<latitude>7.663255835047943</latitude>
+						<altitude>33.64089710364477</altitude>
+						<heading>306.6140630599691</heading>
+						<tilt>0</tilt>
+						<range>317.388645252031</range>
+						<altitudeMode>absolute</altitudeMode>
+						<gx:fovy>35</gx:fovy>
+					</LookAt>
+					<styleUrl>#__managed_style_0710DE6503318585E3860</styleUrl>
+					<Point>
+						<coordinates>-76.67587283858104,7.663255835047943,33.64089710364477</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0537A577E33185941DA8">
+					<name>Zona Rosa El Bosque</name>
+					<LookAt>
+						<longitude>-76.67850911444984</longitude>
+						<latitude>7.66436993049158</latitude>
+						<altitude>34.04034523516284</altitude>
+						<heading>184.0780317314556</heading>
+						<tilt>0</tilt>
+						<range>400.3060665872181</range>
+						<altitudeMode>absolute</altitudeMode>
+						<gx:fovy>35</gx:fovy>
+					</LookAt>
+					<styleUrl>#__managed_style_0710DE6503318585E3860</styleUrl>
+					<Point>
+						<coordinates>-76.67850911444984,7.66436993049158,34.04034523516284</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0974B4A479318594FB78">
+					<name>Divino Niño</name>
+					<LookAt>
+						<longitude>-76.6815709645176</longitude>
+						<latitude>7.666647308513931</latitude>
+						<altitude>34.08213731571546</altitude>
+						<heading>191.9629041646971</heading>
+						<tilt>0</tilt>
+						<range>457.3370066374628</range>
+						<altitudeMode>absolute</altitudeMode>
+						<gx:fovy>35</gx:fovy>
+					</LookAt>
+					<styleUrl>#__managed_style_0710DE6503318585E3860</styleUrl>
+					<Point>
+						<coordinates>-76.6815709645176,7.666647308513931,34.08213731571546</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0BE328DE933185968992">
+					<name>Iglesia Pentecostal</name>
+					<LookAt>
+						<longitude>-76.67895365004888</longitude>
+						<latitude>7.658826295278038</latitude>
+						<altitude>33.29562409538531</altitude>
+						<heading>188.2172533908063</heading>
+						<tilt>0</tilt>
+						<range>424.4497082883026</range>
+						<altitudeMode>absolute</altitudeMode>
+						<gx:fovy>35</gx:fovy>
+					</LookAt>
+					<styleUrl>#__managed_style_0710DE6503318585E3860</styleUrl>
+					<Point>
+						<coordinates>-76.67895365004888,7.658826295278038,33.29562409538531</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0933CAE01631859D3F66">
+					<name>Supermecado Ofel</name>
+					<LookAt>
+						<longitude>-76.68870243279021</longitude>
+						<latitude>7.667457545546495</latitude>
+						<altitude>32.66586974610141</altitude>
+						<heading>-173.9536571314798</heading>
+						<tilt>0.6429477424180299</tilt>
+						<range>1036.72910571142</range>
+						<altitudeMode>absolute</altitudeMode>
+						<gx:fovy>35</gx:fovy>
+					</LookAt>
+					<styleUrl>#__managed_style_0710DE6503318585E3860</styleUrl>
+					<Point>
+						<coordinates>-76.68870243279021,7.667457545546495,32.66586974610141</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0B30A5579E31859F34A8">
+					<name>La Parrilla De Sofi</name>
+					<LookAt>
+						<longitude>-76.68037012010707</longitude>
+						<latitude>7.662851959845669</latitude>
+						<altitude>32.09955074200371</altitude>
+						<heading>-173.9525229808359</heading>
+						<tilt>0.6429505555923357</tilt>
+						<range>1064.623346540902</range>
+						<altitudeMode>absolute</altitudeMode>
+						<gx:fovy>35</gx:fovy>
+					</LookAt>
+					<styleUrl>#__managed_style_0710DE6503318585E3860</styleUrl>
+					<Point>
+						<coordinates>-76.68037012010707,7.662851959845668,32.09955074200371</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="069842FFFF3185A0A733">
+					<name>Droguería Sin Nombre</name>
+					<LookAt>
+						<longitude>-76.68233546063051</longitude>
+						<latitude>7.669409734289092</latitude>
+						<altitude>34.36406132326835</altitude>
+						<heading>324.0384651100518</heading>
+						<tilt>0</tilt>
+						<range>714.3029714817385</range>
+						<altitudeMode>absolute</altitudeMode>
+						<gx:fovy>35</gx:fovy>
+					</LookAt>
+					<styleUrl>#__managed_style_0710DE6503318585E3860</styleUrl>
+					<Point>
+						<coordinates>-76.68233546063051,7.669409734289092,34.36406132326835</coordinates>
+					</Point>
+				</Placemark>
+			</Document>
+			<Folder>
+				<name>ENLACE</name>
+				<open>1</open>
+				<Folder>
+					<name>FO</name>
+					<open>1</open>
+					<Placemark>
+						<name>UM IE GONZALO MEJIA 600M</name>
+						<open>1</open>
+						<styleUrl>#msn_ylw-pushpin310</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-76.68470010478808,7.668724523673029,0 -76.68424766765453,7.668695010804168,0 -76.6841802424854,7.669871892429809,0 -76.68368077457168,7.669842925096241,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>RED TRONCAL - Anillo 01 - 6082</name>
+						<styleUrl>#msn_ylw-pushpin00</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-76.6847751014449,7.670764170179829,0 -76.68435669253834,7.669945308970299,0 -76.68373649001776,7.669862440713128,0 -76.68163201047425,7.670020563858141,0 -76.68038779461797,7.670099231321267,0 -76.68043617451653,7.671032995794158,0 -76.67958984043285,7.671125245501202,0 -76.67897079621527,7.670667453067884,0 -76.67775871029072,7.669946669049894,0 -76.67678285372281,7.669232580220847,0 -76.67597479970721,7.668656087386789,0 -76.6739010760849,7.668196936348285,0 -76.67431003030906,7.666790067713908,0 -76.6745938947218,7.665931314650786,0 -76.67466186413107,7.665540692379651,0 -76.67464143273737,7.66534531551359,0 -76.67473345335561,7.665123703646456,0 -76.67522776610566,7.664450083906268,0 -76.67582861298892,7.664502570439422,0 -76.67671677579222,7.664492454208986,0 -76.67860890849251,7.664607274844078,0 -76.68170399324069,7.664804369633016,0 -76.6826486908933,7.664853639285121,0 -76.68620919510072,7.665131572729284,0 -76.68614045002006,7.667501351896956,0 -76.68874251308524,7.667725582493806,0 -76.69054801484042,7.667804347420572,0 -76.6906114789831,7.668483451143332,0 -76.69049013740633,7.670399666496069,0 -76.68603440296131,7.670006434337971,0 -76.68591372190843,7.670724110077568,0 -76.6847915633972,7.670638923156682,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>Ruta 02 - 371m</name>
+						<styleUrl>#msn_ylw-pushpin9</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-76.67865353312584,7.664602032637425,0 -76.67878763746899,7.662902802121222,0 -76.68025260615984,7.663006233041549,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>UM PLACA DEPORTIVA MONTECARLOS 400</name>
+						<open>1</open>
+						<styleUrl>#msn_ylw-pushpin31</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-76.67303149134675,7.658501830767196,0 -76.67305788409212,7.65854987071835,0 -76.67307327399456,7.658586202253296,0 -76.67308867705921,7.658618716389587,0 -76.67312934038617,7.658763446046654,0 -76.67360861290109,7.658509795070946,0 -76.67379754605405,7.658474003063722,0 -76.67433410018563,7.658518699957992,0 -76.67550723773695,7.65858748005266,0 -76.67630221115482,7.6586809249308,0 -76.67708872298535,7.658723619496673,0 -76.67794704940165,7.658739024004262,0 -76.67887692846845,7.658817932903626,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>Ruta UM IE LOS ANDES 280M</name>
+						<open>1</open>
+						<styleUrl>#msn_ylw-pushpin52</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-76.68368721966374,7.669832417574344,0 -76.68420396073371,7.669866862773143,0 -76.68424047516571,7.66928109766948,0 -76.68462813234022,7.669310721921901,0 -76.6845984132167,7.669667568698586,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>Ruta 03 297m</name>
+						<styleUrl>#msn_ylw-pushpin210</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-76.68479771981974,7.672784317238086,0 -76.6847065190628,7.672536077718323,0 -76.68541675902439,7.672204230299598,0 -76.68474452585295,7.670711953542381,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>UM - FISCALÍA - 112m</name>
+						<styleUrl>#msn_ylw-pushpin5</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-76.68539625926807,7.672203673760212,0 -76.6855663695295,7.67263170421449,0 -76.68589848627654,7.672749139087947,0 -76.68581193053055,7.672928299062818,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>UM - PC PLACA POLIDEPORTIVA 625m</name>
+						<styleUrl>#msn_ylw-pushpin</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-76.67863192834736,7.664586076908757,0 -76.67868540709162,7.662784038390713,0 -76.67887258200641,7.658941430228531,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>RUTA 04</name>
+						<styleUrl>#msn_ylw-pushpin2</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-76.67839125151376,7.664668074867949,0 -76.67836791301379,7.66534371011101,0 -76.67873498605898,7.666272037117354,0 -76.67906823421509,7.666682733773593,0 -76.68157835101144,7.666824715015777,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>Ruta 05</name>
+						<styleUrl>#msn_ylw-pushpin2</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-76.67524044260715,7.664509855705721,0 -76.67583660533737,7.664530672366691,0 -76.67593291180835,7.663355565972095,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>Ruta sin título</name>
+						<open>1</open>
+						<styleUrl>#msn_ylw-pushpin2</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-76.67887980154863,7.658835507134792,0 -76.67968486026946,7.658976590398432,0 -76.67959518361708,7.660485658080939,0 -76.67956510277327,7.660804638374235,0 -76.67996237237948,7.660824470396349,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>Ruta 06</name>
+						<styleUrl>#msn_ylw-pushpin2</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-76.68147636218727,7.670100067247323,0 -76.68150751091105,7.670073482602752,0 -76.68162936164315,7.670801690503955,0 -76.68237838235613,7.670654261389251,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>Ruta 07</name>
+						<styleUrl>#msn_ylw-pushpin2</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-76.68047247930576,7.670946271105072,0 -76.68032493160433,7.670038698996661,0 -76.68017874168766,7.669154986881972,0 -76.6800224102425,7.668769967723367,0 -76.67870845664039,7.6674407670943,0 -76.67821278176856,7.667077932684227,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>Ruta</name>
+						<styleUrl>#msn_ylw-pushpin5</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-76.68150137102636,7.669991306948644,0 -76.68149572080185,7.66995770899824,0 -76.68149007055916,7.669873714148831,0 -76.68150702099241,7.669190555639975,0 -76.68234325203314,7.669425739819235,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+				</Folder>
+			</Folder>
+		</Folder>
+		<Placemark>
+			<name>RADIOBASE</name>
+			<LookAt>
+				<longitude>-76.68480769929039</longitude>
+				<latitude>7.670744151130924</latitude>
+				<altitude>0</altitude>
+				<heading>3.692087576680726e-07</heading>
+				<tilt>0</tilt>
+				<range>150.4446084618766</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_picnic</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-76.68485790265029,7.670483830137765,0</coordinates>
+			</Point>
+		</Placemark>
+		<Folder>
+			<name>EDS</name>
+			<Placemark>
+				<name>I.E. GONZALO MEJÍA</name>
+				<description>7.668973408943754, -76.68467326952167</description>
+				<LookAt>
+					<gx:TimeStamp><when>2023-08-31T09:57:55Z</when>
+</gx:TimeStamp>
+					<longitude>-76.68105154209101</longitude>
+					<latitude>7.663861020598147</latitude>
+					<altitude>0</altitude>
+					<heading>-1.837878513904664</heading>
+					<tilt>13.64907728471191</tilt>
+					<range>2788.279252097517</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin00</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-76.68467326952167,7.668973,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>EDS - ​</name>
+				<description>7.658447684184687, -76.67306522837755</description>
+				<LookAt>
+					<gx:TimeStamp><when>2023-08-31T09:57:55Z</when>
+</gx:TimeStamp>
+					<longitude>-76.68408725400514</longitude>
+					<latitude>7.669516027453367</latitude>
+					<altitude>0</altitude>
+					<heading>-1.729426608045786e-14</heading>
+					<tilt>0</tilt>
+					<range>469.3680334594964</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin00</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-76.67306499999999,7.658448,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>I.E. LOS ANDES</name>
+				<description>7.6696593803976025, -76.68460409671077</description>
+				<LookAt>
+					<gx:TimeStamp><when>2023-08-31T09:57:55Z</when>
+</gx:TimeStamp>
+					<longitude>-76.68408725400514</longitude>
+					<latitude>7.669516027453367</latitude>
+					<altitude>0</altitude>
+					<heading>-1.729426608045786e-14</heading>
+					<tilt>0</tilt>
+					<range>469.3680334594964</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin00</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-76.68460399999999,7.669658999999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>EDS-I.E. MUNICIPAL JOSÉ DE LOS SANTOS ZÚÑIGA</name>
+				<description>7.660790158019716, -76.67994297881864</description>
+				<LookAt>
+					<gx:TimeStamp><when>2023-08-31T09:57:55Z</when>
+</gx:TimeStamp>
+					<longitude>-76.67952787360124</longitude>
+					<latitude>7.66562213662682</latitude>
+					<altitude>0</altitude>
+					<heading>0.0007163835519840103</heading>
+					<tilt>1.373910086138451</tilt>
+					<range>2720.294854842162</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin6</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-76.67994297881864,7.660790158019716,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>UM IE GONZALO MEJIA 600M</name>
+				<styleUrl>#msn_ylw-pushpin310</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-76.68470010478808,7.668724523673029,0 -76.68424766765453,7.668695010804168,0 -76.6841802424854,7.669871892429809,0 -76.68368077457168,7.669842925096241,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>UM PLACA DEPORTIVA MONTECARLOS 400</name>
+				<styleUrl>#msn_ylw-pushpin31</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-76.67303149134675,7.658501830767196,0 -76.67305788409212,7.65854987071835,0 -76.67307327399456,7.658586202253296,0 -76.67308867705921,7.658618716389587,0 -76.67312934038617,7.658763446046654,0 -76.67360861290109,7.658509795070946,0 -76.67379754605405,7.658474003063722,0 -76.67433410018563,7.658518699957992,0 -76.67550723773695,7.65858748005266,0 -76.67630221115482,7.6586809249308,0 -76.67708872298535,7.658723619496673,0 -76.67794704940165,7.658739024004262,0 -76.67887692846845,7.658817932903626,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Ruta UM IE LOS ANDES 280M</name>
+				<styleUrl>#msn_ylw-pushpin52</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-76.68368721966374,7.669832417574344,0 -76.68420396073371,7.669866862773143,0 -76.68424047516571,7.66928109766948,0 -76.68462813234022,7.669310721921901,0 -76.6845984132167,7.669667568698586,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Ruta sin título</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-76.67887980154863,7.658835507134792,0 -76.67968486026946,7.658976590398432,0 -76.67959518361708,7.660485658080939,0 -76.67956510277327,7.660804638374235,0 -76.67996237237948,7.660824470396349,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Placemark>
+			<name>CCM</name>
+			<LookAt>
+				<gx:TimeStamp><when>2023-08-31T09:57:55Z</when>
+</gx:TimeStamp>
+				<longitude>-76.68225174807864</longitude>
+				<latitude>7.669542419954053</latitude>
+				<altitude>0</altitude>
+				<heading>1.914830338152603</heading>
+				<tilt>3.960243456181452</tilt>
+				<range>1293.129503775463</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_homegardenbusiness</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-76.68481538454863,7.670677579737544,0</coordinates>
+			</Point>
+		</Placemark>
+		<Folder>
+			<name>EMPALMES</name>
+			<open>1</open>
+			<Placemark>
+				<name>E01</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-08-31T09:57:55Z</when>
+</gx:TimeStamp>
+					<longitude>-76.68225174807864</longitude>
+					<latitude>7.669542419954053</latitude>
+					<altitude>0</altitude>
+					<heading>1.914830338152603</heading>
+					<tilt>3.960243456181452</tilt>
+					<range>1293.129503775463</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_triangle</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-76.68466999726263,7.670612396731789,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>E02</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-08-31T09:57:55Z</when>
+</gx:TimeStamp>
+					<longitude>-76.68794523516168</longitude>
+					<latitude>7.668092412475633</latitude>
+					<altitude>0</altitude>
+					<heading>0.9521673048266448</heading>
+					<tilt>1.516922095105594</tilt>
+					<range>529.4215970083351</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_triangle0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-76.68874107629561,7.667735778961826,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>E03</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-08-31T09:57:55Z</when>
+</gx:TimeStamp>
+					<longitude>-76.67892097183423</longitude>
+					<latitude>7.665000397872209</latitude>
+					<altitude>0</altitude>
+					<heading>4.097579423559058</heading>
+					<tilt>3.232655260289529</tilt>
+					<range>1292.097997993077</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_triangle</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-76.67862053124266,7.664591977703886,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>E04</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-08-31T09:57:55Z</when>
+</gx:TimeStamp>
+					<longitude>-76.67489368038859</longitude>
+					<latitude>7.665346809619154</latitude>
+					<altitude>0</altitude>
+					<heading>4.098116469186965</heading>
+					<tilt>3.232655260289303</tilt>
+					<range>1292.097997995829</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_triangle0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-76.67521570906443,7.664499706774186,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>E05</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-08-31T09:57:55Z</when>
+</gx:TimeStamp>
+					<longitude>-76.67495911447278</longitude>
+					<latitude>7.668189648139642</latitude>
+					<altitude>0</altitude>
+					<heading>4.098107868463169</heading>
+					<tilt>3.232655260289641</tilt>
+					<range>1292.097997995776</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_triangle</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-76.67392347457633,7.668197112687086,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>E06</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-08-31T09:57:55Z</when>
+</gx:TimeStamp>
+					<longitude>-76.67495911447278</longitude>
+					<latitude>7.668189648139642</latitude>
+					<altitude>0</altitude>
+					<heading>4.098107868463169</heading>
+					<tilt>3.232655260289641</tilt>
+					<range>1292.097997995776</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_triangle</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-76.67776922786884,7.669947887792373,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>E07</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-08-31T09:57:55Z</when>
+</gx:TimeStamp>
+					<longitude>-76.67715697916528</longitude>
+					<latitude>7.669469448363667</latitude>
+					<altitude>0</altitude>
+					<heading>4.097814607208782</heading>
+					<tilt>3.232655260289416</tilt>
+					<range>1292.09799799467</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_triangle</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-76.68040528277686,7.670965006982307,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>E08</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-08-31T09:57:55Z</when>
+</gx:TimeStamp>
+					<longitude>-76.67981063481601</longitude>
+					<latitude>7.66936533402075</latitude>
+					<altitude>0</altitude>
+					<heading>4.097460411514712</heading>
+					<tilt>3.232655260289529</tilt>
+					<range>1292.097997994952</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_triangle</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-76.68148202985812,7.670000957199997,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>E09</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-08-31T09:57:55Z</when>
+</gx:TimeStamp>
+					<longitude>-76.68128715012949</longitude>
+					<latitude>7.669524707855748</latitude>
+					<altitude>0</altitude>
+					<heading>4.097342235627</heading>
+					<tilt>5.525364240475876</tilt>
+					<range>852.403846413143</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_triangle</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-76.68366619842064,7.669877342151903,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>E10</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-08-31T09:57:55Z</when>
+</gx:TimeStamp>
+					<longitude>-76.68592173425257</longitude>
+					<latitude>7.671458205503632</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0009177263833208283</heading>
+					<tilt>0</tilt>
+					<range>726.7926802606183</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_triangle</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-76.68538991525986,7.67220338178221,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>E11</name>
+				<LookAt>
+					<gx:TimeStamp><when>2023-08-31T09:57:55Z</when>
+</gx:TimeStamp>
+					<longitude>-76.67816890872898</longitude>
+					<latitude>7.662078982874743</latitude>
+					<altitude>0</altitude>
+					<heading>0.000116935641617683</heading>
+					<tilt>0</tilt>
+					<range>1548.828379309263</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_triangle0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-76.67883109156193,7.658889210965367,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Placemark>
+			<name>Fiscalia - Chigorodó</name>
+			<LookAt>
+				<gx:TimeStamp><when>2023-08-31T09:57:55Z</when>
+</gx:TimeStamp>
+				<longitude>-76.68519552027902</longitude>
+				<latitude>7.672364079682864</latitude>
+				<altitude>0</altitude>
+				<heading>-0.000820758632125127</heading>
+				<tilt>0</tilt>
+				<range>726.7926802625616</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_homegardenbusiness</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-76.68580013941055,7.672872553768918,0</coordinates>
+			</Point>
+		</Placemark>
+		<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10441"></atom:link>
+	</Folder>
+</Document>
+</kml>

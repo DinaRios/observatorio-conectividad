@@ -1,0 +1,4817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Doradal F.O</name>
+	<open>1</open>
+	<Schema name="__managed_schema" id="__managed_schema">
+		<SimpleField type="int" name="073029F5243C2B0A050E">
+			<displayName>Precisión (m)</displayName>
+		</SimpleField>
+	</Schema>
+	<gx:CascadingStyle kml:id="__managed_style_24352FB9433D83D999AB">
+		<Style>
+			<IconStyle>
+				<scale>0.9</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=26a69a&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.4275</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1EFAEE1B673D83D999AB">
+		<Style>
+			<IconStyle>
+				<scale>0.75</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=26a69a&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.285</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0D6F979C1F3D83D999AB">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1EFAEE1B673D83D999AB</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_24352FB9433D83D999AB</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_33BA4CF0DA3D83D999A9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_4BC66E6C873D83D999A9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_5E150783863D83D999A9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_57939B03593D83D999B0">
+		<Style>
+			<IconStyle>
+				<scale>1.8</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=388e3c&amp;id=2179&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.4275</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_4372E884753D83D999B0">
+		<Style>
+			<IconStyle>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=388e3c&amp;id=2179&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.285</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_3D9CB2B0093D83D999B0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_4372E884753D83D999B0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_57939B03593D83D999B0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_59BE54F67F3D83D999AF">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffd27619</color>
+				<width>3.75</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_412E8174FD3D83D999AF">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffd27619</color>
+				<width>2.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2CBEA8C91A3D83D999B0">
+		<Style>
+			<IconStyle>
+				<scale>1.8</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=388e3c&amp;id=2179&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.13125</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_186543A7383D83D999A9">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2f2fd3</color>
+				<width>2.5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_A438E6AE4C3D83D999AC">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=d32f2f&amp;id=2006&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>1.42083</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_3440D444023D83D999AF">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_412E8174FD3D83D999AF</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_59BE54F67F3D83D999AF</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_453EE921DF3D83D999A8">
+		<Style>
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=f57c00&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>1.42083</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_3D4D7D30043D83D999A8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_453EE921DF3D83D999A8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_56AE6B5BA63D83D999A8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_DEAA5F4EB93D83D999AC">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.285</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_C1E5DD87433D83D999AC">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_DEAA5F4EB93D83D999AC</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_E93800BEAA3D83D999AC</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_B770FD7A9C3D83D999AC">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.8</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=d32f2f&amp;id=2006&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.13125</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1893FD72383D83D999AE">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.285</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_4BC66E6C873D83D999A9">
+		<Style>
+			<IconStyle>
+				<scale>0.75</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=26a69a&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>1.42083</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0B199D3C123D83D999AE">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1893FD72383D83D999AE</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_24D02CAED43D83D999AE</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_7C11C5E14E3D83D999AC">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>1.42083</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_64B66E52AD3D83D999AC">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_7C11C5E14E3D83D999AC</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_82B8802C673D83D999AC</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_5E5EC29E083D83D999AC">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_276EA60DBF3D83D999AF">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=7b1fa2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.4275</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_41C87DFE5C3D83D999AC">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_32E618ED753D83D999AC">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_41C87DFE5C3D83D999AC</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_5E5EC29E083D83D999AC</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_526B0A33D43D83D999AB">
+		<Style>
+			<IconStyle>
+				<scale>1.8</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=f57c00&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.13125</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_82B8802C673D83D999AC">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.13125</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_3A01A984B83D83D999AB">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_4B76191BC13D83D999AB</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_526B0A33D43D83D999AB</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_24D02CAED43D83D999AE">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.8</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.4275</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2FC3647E773D83D999AC">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=f57c00&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.13125</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_183F77F0103D83D999AF">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.1.0.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=7b1fa2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.285</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1ECDA603483D83D999AC">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=f57c00&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>1.42083</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_9BAC5F2F963D83D999AC">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_A438E6AE4C3D83D999AC</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_B770FD7A9C3D83D999AC</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_56AE6B5BA63D83D999A8">
+		<Style>
+			<IconStyle>
+				<scale>2.4</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=f57c00&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.13125</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1F2C57B3433D83D999B0">
+		<Style>
+			<IconStyle>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=388e3c&amp;id=2179&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>1.42083</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2BF5594F3A3D83DBCE51">
+		<Style>
+			<IconStyle>
+				<scale>1.32</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2E5AADE8273D83D999A9">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2f2fd3</color>
+				<width>3.75</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_104D35968E3D83DE5783">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.33333</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0A23D27AE23D83D999A8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1A43E786813D83D999A8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2B72E3F49A3D83D999A8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_03F43BDE193D83D999AF">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_183F77F0103D83D999AF</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_276EA60DBF3D83D999AF</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_05B033D54A3D83D999B0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1F2C57B3433D83D999B0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2CBEA8C91A3D83D999B0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_21A3F9C5DA3D83DE5783">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2B72E3F49A3D83D999A8">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_02F8E53AF13D83DE5783">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_104D35968E3D83DE5783</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_21A3F9C5DA3D83DE5783</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<gx:CascadingStyle kml:id="__managed_style_14D220A36F3D83DBCE51">
+		<Style>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_07420D61183D83DBCE51">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_14D220A36F3D83DBCE51</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2BF5594F3A3D83DBCE51</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1A43E786813D83D999A8">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0047B148CC3D83D999A9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_186543A7383D83D999A9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2E5AADE8273D83D999A9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_061B2EB7C13D83D999AC">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1ECDA603483D83D999AC</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2FC3647E773D83D999AC</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_E93800BEAA3D83D999AC">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.4275</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_5E150783863D83D999A9">
+		<Style>
+			<IconStyle>
+				<scale>0.9</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=26a69a&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.13125</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2559C301BB3D83DA7DFF">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_4B76191BC13D83D999AB">
+		<Style>
+			<IconStyle>
+				<scale>1.5</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=f57c00&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>1.42083</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1487D7660D3D83DA7DFF">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0</scale>
+			</LabelStyle>
+			<LineStyle>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_01C9043BED3D83DA7DFF">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1487D7660D3D83DA7DFF</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2559C301BB3D83DA7DFF</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder id="00B8F7AB7D3C0FB3A05F">
+		<name>DORADAL</name>
+		<Folder id="1C964AEB2F3C0FB3A05F">
+			<name>CARTERA DE POSTES PUERTO TRIUNFO (1).xlsx</name>
+			<visibility>0</visibility>
+			<Placemark id="2719E882663C0FB3A05F">
+				<name>PF3</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 31.6<br>ALTURA: 12<br>DIRECCION: calle 25con 17 c<br>LONGITUDE: -74.731647<br>LATITUDE: 5.901781<br>TIPO DE TENSION: qlta<br># TRANSFORMADOR: 423251<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_01C9043BED3D83DA7DFF</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>31.6</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>12.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>calle 25con 17 c</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.731647</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.901781</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>qlta</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>423251</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.731647,5.901781000000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="32933FB4183C0FB3A05F">
+				<name>PF4</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 21.2<br>ALTURA: 8<br>DIRECCION: calle 25con 17 c<br>LONGITUDE: -74.731996<br>LATITUDE: 5.901811<br>TIPO DE TENSION: baja<br># TRANSFORMADOR: no<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_01C9043BED3D83DA7DFF</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>21.2</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>8.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>calle 25con 17 c</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.731996</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.901811</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>baja</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>no</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.731996,5.901811,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="4B815B12CC3C0FB3A05F">
+				<name>PF5</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: <br>ALTURA: <br>DIRECCION: <br>LONGITUDE: -74.732173<br>LATITUDE: 5.901807<br>TIPO DE TENSION: <br># TRANSFORMADOR: <br>SECUNDARIA: <br>FIBRA OPTICA: <br>TELEVISION: <br>TELEFONIA: <br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_01C9043BED3D83DA7DFF</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+					</Data>
+					<Data name="ALTURA">
+					</Data>
+					<Data name="DIRECCION">
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.732173</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.901807</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+					</Data>
+					<Data name="# TRANSFORMADOR">
+					</Data>
+					<Data name="SECUNDARIA">
+					</Data>
+					<Data name="FIBRA OPTICA">
+					</Data>
+					<Data name="TELEVISION">
+					</Data>
+					<Data name="TELEFONIA">
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.732173,5.901807,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="5462EDC6343C0FB3A05F">
+				<name>PF6</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 34<br>ALTURA: 12<br>DIRECCION: calle 25con 17 c<br>LONGITUDE: -74.73219<br>LATITUDE: 5.901826<br>TIPO DE TENSION: alta<br># TRANSFORMADOR: 135757<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_01C9043BED3D83DA7DFF</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>34.0</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>12.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>calle 25con 17 c</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.73219</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.901826</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>alta</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>135757</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.73219,5.901826000000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="6403DB7C833C0FB3A05F">
+				<name>PF7</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 25<br>ALTURA: 12<br>DIRECCION: calle 25 con17b<br>LONGITUDE: -74.732524<br>LATITUDE: 5.901834<br>TIPO DE TENSION: alta<br># TRANSFORMADOR: 254066<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_01C9043BED3D83DA7DFF</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>25.0</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>12.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>calle 25 con17b</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.732524</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.901834</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>alta</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>254066</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.732524,5.901834,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="7C131D57503C0FB3A05F">
+				<name>PF8</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 27.5<br>ALTURA: 12<br>DIRECCION: calle 25 con17b<br>LONGITUDE: -74.732603<br>LATITUDE: 5.901905<br>TIPO DE TENSION: alta<br># TRANSFORMADOR: 101767<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_0A23D27AE23D83D999A8</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>27.5</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>12.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>calle 25 con17b</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.732603</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.901905</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>alta</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>101767</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.732603,5.901905000000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="87E878C86E3C0FB3A05F">
+				<name>PF9</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 31<br>ALTURA: 8<br>DIRECCION: calle 25 con17b<br>LONGITUDE: -74.732794<br>LATITUDE: 5.901856<br>TIPO DE TENSION: media<br># TRANSFORMADOR: no<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_01C9043BED3D83DA7DFF</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>31.0</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>8.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>calle 25 con17b</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.732794</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.901856</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>media</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>no</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.732794,5.901856,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="9A5FF3085B3C0FB3A05F">
+				<name>PF10</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 14.9<br>ALTURA: 8<br>DIRECCION: calle 25 con17a<br>LONGITUDE: -74.733165<br>LATITUDE: 5.901785<br>TIPO DE TENSION: media<br># TRANSFORMADOR: no<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_01C9043BED3D83DA7DFF</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>14.9</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>8.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>calle 25 con17a</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.733165</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.901785</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>media</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>no</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.733165,5.901785,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="A569C231823C0FB3A05F">
+				<name>PF11</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 25.4<br>ALTURA: 12<br>DIRECCION: calle 25 con17a<br>LONGITUDE: -74.733203<br>LATITUDE: 5.90173<br>TIPO DE TENSION: alta<br># TRANSFORMADOR: 70638<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_01C9043BED3D83DA7DFF</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>25.4</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>12.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>calle 25 con17a</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.733203</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.90173</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>alta</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>70638</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.733203,5.90173,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="B33BB1A2743C0FB3A05F">
+				<name>PF12</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 36<br>ALTURA: 8<br>DIRECCION: calle 25 con17a<br>LONGITUDE: -74.733406<br>LATITUDE: 5.901737<br>TIPO DE TENSION: media<br># TRANSFORMADOR: no<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_0A23D27AE23D83D999A8</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>36.0</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>8.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>calle 25 con17a</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.733406</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.901737</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>media</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>no</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.733406,5.901736999999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="C9F5ED0B373C0FB3A05F">
+				<name>PF13</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 23.5<br>ALTURA: 8<br>DIRECCION: calle 25 con17<br>LONGITUDE: -74.733721<br>LATITUDE: 5.901697<br>TIPO DE TENSION: media<br># TRANSFORMADOR: no<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_01C9043BED3D83DA7DFF</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>23.5</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>8.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>calle 25 con17</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.733721</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.901697</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>media</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>no</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.733721,5.901697,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="D245839E873C0FB3A05F">
+				<name>PF14</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 31<br>ALTURA: 12<br>DIRECCION: carrera 8 con 24<br>LONGITUDE: -74.73399<br>LATITUDE: 5.901613<br>TIPO DE TENSION: alta<br># TRANSFORMADOR: no<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_01C9043BED3D83DA7DFF</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>31.0</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>12.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>carrera 8 con 24</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.73399</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.901613</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>alta</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>no</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.73399000000001,5.901613,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="E32CFAE2143C0FB3A05F">
+				<name>PF15</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 18.9<br>ALTURA: 8<br>DIRECCION: carrera 8 con 24<br>LONGITUDE: -74.734008<br>LATITUDE: 5.901278<br>TIPO DE TENSION: baja<br># TRANSFORMADOR: no<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_0A23D27AE23D83D999A8</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>18.9</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>8.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>carrera 8 con 24</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.734008</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.901278</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>baja</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>no</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.734008,5.901278,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="FDD36B242A3C0FB3A05F">
+				<name>PF16</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 32.6<br>ALTURA: 8<br>DIRECCION: carrera 18 con 23<br>LONGITUDE: -74.733998<br>LATITUDE: 5.901148<br>TIPO DE TENSION: baja<br># TRANSFORMADOR: no<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_0A23D27AE23D83D999A8</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>32.6</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>8.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>carrera 18 con 23</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.733998</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.901148</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>baja</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>no</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.733998,5.901148,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="10FB586578D3C0FB3A05F">
+				<name>PF17</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 40<br>ALTURA: 8<br>DIRECCION: carrera 18 con 23<br>LONGITUDE: -74.733922<br>LATITUDE: 5.900936<br>TIPO DE TENSION: media<br># TRANSFORMADOR: no<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_0A23D27AE23D83D999A8</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>40.0</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>8.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>carrera 18 con 23</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.733922</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.900936</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>media</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>no</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.73392200000001,5.900936,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1188093EA2C3C0FB3A05F">
+				<name>PF18</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 35.9<br>ALTURA: 12<br>DIRECCION: carrera 18 con 23<br>LONGITUDE: -74.733885<br>LATITUDE: 5.900571<br>TIPO DE TENSION: alta<br># TRANSFORMADOR: 322450<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_01C9043BED3D83DA7DFF</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>35.9</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>12.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>carrera 18 con 23</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.733885</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.900571</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>alta</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>322450</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.733885,5.900571,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1279BC3F1DF3C0FB3A05F">
+				<name>PF19</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 32.7<br>ALTURA: 8<br>DIRECCION: carrera 18 con 23<br>LONGITUDE: -74.733837<br>LATITUDE: 5.900219<br>TIPO DE TENSION: media<br># TRANSFORMADOR: no<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_0A23D27AE23D83D999A8</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>32.7</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>8.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>carrera 18 con 23</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.733837</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.900219</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>media</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>no</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.73383699999999,5.900219,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="135020748573C0FB3A05F">
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 31.3<br>ALTURA: 8<br>DIRECCION: carrera 18 con 22<br>LONGITUDE: -74.733611<br>LATITUDE: 5.899722<br>TIPO DE TENSION: media<br># TRANSFORMADOR: no<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_0A23D27AE23D83D999A8</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>31.3</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>8.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>carrera 18 con 22</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.733611</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.899722</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>media</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>no</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.733611,5.899722000000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="141EF6C2DCE3C0FB3A05F">
+				<name>PF20</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 32.4<br>ALTURA: 8<br>DIRECCION: carrera 18 con 22<br>LONGITUDE: -74.733768<br>LATITUDE: 5.899708<br>TIPO DE TENSION: media<br># TRANSFORMADOR: no<br>SECUNDARIA: no<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_0A23D27AE23D83D999A8</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>32.4</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>8.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>carrera 18 con 22</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.733768</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.899708</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>media</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>no</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>no</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.733768,5.899708000000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1538D532C483C0FB3A05F">
+				<name>pf1</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 10<br>ALTURA: 8<br>DIRECCION: carrera 18 con 22<br>LONGITUDE: -74.733611<br>LATITUDE: 5.899167<br>TIPO DE TENSION: media<br># TRANSFORMADOR: no<br>SECUNDARIA: no<br>FIBRA OPTICA: ai<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_01C9043BED3D83DA7DFF</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>10.0</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>8.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>carrera 18 con 22</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.733611</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.899167</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>media</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>no</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>no</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>ai</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.733611,5.899167,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="16DDAA1601E3C0FB3A05F">
+				<name>PF21</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 18<br>ALTURA: 10<br>DIRECCION: carrera 18 con 22<br>LONGITUDE: -74.733709<br>LATITUDE: 5.899384<br>TIPO DE TENSION: media<br># TRANSFORMADOR: no<br>SECUNDARIA: no<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_01C9043BED3D83DA7DFF</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>18.0</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>10.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>carrera 18 con 22</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.733709</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.899384</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>media</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>no</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>no</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.733709,5.899384,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="179FF0E32883C0FB3A05F">
+				<name>Ps1</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 51.6<br>ALTURA: 10<br>DIRECCION: <br>LONGITUDE: -74.733757<br>LATITUDE: 5.899334<br>TIPO DE TENSION: qlta<br># TRANSFORMADOR: no<br>SECUNDARIA: no<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_01C9043BED3D83DA7DFF</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>51.6</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>10.0</value>
+					</Data>
+					<Data name="DIRECCION">
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.733757</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.899334</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>qlta</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>no</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>no</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.733757,5.899334000000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="18BD27037093C0FB3A05F">
+				<name>PS1</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 23.3<br>ALTURA: 12<br>DIRECCION: autopista principal <br>LONGITUDE: -74.73371856<br>LATITUDE: 5.899046556<br>TIPO DE TENSION: alta<br># TRANSFORMADOR: no<br>SECUNDARIA: si<br>FIBRA OPTICA: no<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1): 5°53'55"N 74°44'01"W]]></description>
+				<styleUrl>#__managed_style_0A23D27AE23D83D999A8</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>23.3</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>12.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>autopista principal</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.73371856</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.899046556</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>alta</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>no</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>no</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+						<value>5°53&apos;55&quot;N 74°44&apos;01&quot;W</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.73371856,5.899046556,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="196E1DE5A643C0FB3A05F">
+				<name>PS2</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 20.4<br>ALTURA: 12<br>DIRECCION: autopista principal <br>LONGITUDE: -74.7338875<br>LATITUDE: 5.8986717<br>TIPO DE TENSION: alta<br># TRANSFORMADOR: no<br>SECUNDARIA: si<br>FIBRA OPTICA: no<br>TELEVISION: no<br>TELEFONIA: no<br>unnamed (1): 5°53'55"N 74°44'02"W]]></description>
+				<styleUrl>#__managed_style_01C9043BED3D83DA7DFF</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>20.4</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>12.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>autopista principal</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.7338875</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.8986717</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>alta</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>no</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>no</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>no</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>no</value>
+					</Data>
+					<Data name="unnamed (1)">
+						<value>5°53&apos;55&quot;N 74°44&apos;02&quot;W</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.73388749999999,5.8986717,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1A57B208FBB3C0FB3A05F">
+				<name>NVR VEREDALComando de PolicÃ­a Doradal</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: <br>ALTURA: <br>DIRECCION: autopista principal <br>LONGITUDE: -74.73412592<br>LATITUDE: 5.898666694<br>TIPO DE TENSION: <br># TRANSFORMADOR: <br>SECUNDARIA: <br>FIBRA OPTICA: <br>TELEVISION: <br>TELEFONIA: <br>unnamed (1): 5°53'54"N 74°44'02"W]]></description>
+				<styleUrl>#__managed_style_07420D61183D83DBCE51</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+					</Data>
+					<Data name="ALTURA">
+					</Data>
+					<Data name="DIRECCION">
+						<value>autopista principal</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.73412592</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.898666694</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+					</Data>
+					<Data name="# TRANSFORMADOR">
+					</Data>
+					<Data name="SECUNDARIA">
+					</Data>
+					<Data name="FIBRA OPTICA">
+					</Data>
+					<Data name="TELEVISION">
+					</Data>
+					<Data name="TELEFONIA">
+					</Data>
+					<Data name="unnamed (1)">
+						<value>5°53&apos;54&quot;N 74°44&apos;02&quot;W</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.73412592,5.898666694,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1B7BD2D73173C0FB3A05F">
+				<name>PF2</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 30.5<br>ALTURA: 12<br>DIRECCION: calle 21 con 18<br>LONGITUDE: -74.736661<br>LATITUDE: 5.898537<br>TIPO DE TENSION: alta<br># TRANSFORMADOR: no<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_01C9043BED3D83DA7DFF</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>30.5</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>12.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>calle 21 con 18</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.736661</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.898537</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>alta</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>no</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.736661,5.898536999999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1CB36031BAF3C0FB3A05F">
+				<name>PF35</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 21.9<br>ALTURA: 12<br>DIRECCION: calle 21 con 18<br>LONGITUDE: -74.736527<br>LATITUDE: 5.89881<br>TIPO DE TENSION: alta<br># TRANSFORMADOR: no<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_01C9043BED3D83DA7DFF</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>21.9</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>12.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>calle 21 con 18</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.736527</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.89881</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>alta</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>no</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.736527,5.898810000000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1D81EB1815C3C0FB3A05F">
+				<name>PF34</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 19<br>ALTURA: 8<br>DIRECCION: calle 21 con 18<br>LONGITUDE: -74.736408<br>LATITUDE: 5.898996<br>TIPO DE TENSION: media<br># TRANSFORMADOR: no<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_01C9043BED3D83DA7DFF</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>19.0</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>8.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>calle 21 con 18</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.736408</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.898996</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>media</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>no</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.736408,5.898996,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1E0D172EA543C0FB3A05F">
+				<name>PF33</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 15<br>ALTURA: 8<br>DIRECCION: calle 21 con 18<br>LONGITUDE: -74.73627<br>LATITUDE: 5.899007<br>TIPO DE TENSION: media<br># TRANSFORMADOR: no<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_0A23D27AE23D83D999A8</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>15.0</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>8.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>calle 21 con 18</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.73627</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.899007</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>media</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>no</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.73627,5.899007,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1FE4F2041943C0FB3A05F">
+				<name>PF32</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 17.2<br>ALTURA: 8<br>DIRECCION: calle 21 con 18<br>LONGITUDE: -74.736047<br>LATITUDE: 5.899016<br>TIPO DE TENSION: media<br># TRANSFORMADOR: no<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_01C9043BED3D83DA7DFF</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>17.2</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>8.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>calle 21 con 18</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.736047</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.899016</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>media</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>no</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.736047,5.899016,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="20ED19BF1563C0FB3A05F">
+				<name>PF31</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 46<br>ALTURA: 8<br>DIRECCION: calle 21 con 19<br>LONGITUDE: -74.735781<br>LATITUDE: 5.899027<br>TIPO DE TENSION: nedia<br># TRANSFORMADOR: no<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_01C9043BED3D83DA7DFF</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>46.0</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>8.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>calle 21 con 19</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.735781</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.899027</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>nedia</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>no</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.735781,5.899026999999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="216DACDAFAC3C0FB3A05F">
+				<name>PF30</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 26.4<br>ALTURA: 12<br>DIRECCION: calle 21 con 19<br>LONGITUDE: -74.735622<br>LATITUDE: 5.899031<br>TIPO DE TENSION: alta<br># TRANSFORMADOR: 43642<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_01C9043BED3D83DA7DFF</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>26.4</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>12.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>calle 21 con 19</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.735622</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.899031</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>alta</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>43642</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.73562200000001,5.899031,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="220A8548E433C0FB3A05F">
+				<name>PF29</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 17<br>ALTURA: 8<br>DIRECCION: calle 21 con 19<br>LONGITUDE: -74.735407<br>LATITUDE: 5.899039<br>TIPO DE TENSION: media<br># TRANSFORMADOR: no<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_0A23D27AE23D83D999A8</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>17.0</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>8.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>calle 21 con 19</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.735407</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.899039</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>media</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>no</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.735407,5.899038999999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="23F77BDACA23C0FB3A05F">
+				<name>PF28</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 28.3<br>ALTURA: 8<br>DIRECCION: calle 21 con 19<br>LONGITUDE: -74.735346<br>LATITUDE: 5.899057<br>TIPO DE TENSION: media<br># TRANSFORMADOR: no<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_0A23D27AE23D83D999A8</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>28.3</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>8.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>calle 21 con 19</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.735346</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.899057</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>media</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>no</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.73534600000001,5.899057,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="24A3949DF873C0FB3A05F">
+				<name>PF27</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 25.4<br>ALTURA: 8<br>DIRECCION: calle 21 con 20<br>LONGITUDE: -74.735102<br>LATITUDE: 5.899084<br>TIPO DE TENSION: media<br># TRANSFORMADOR: no<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_0A23D27AE23D83D999A8</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>25.4</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>8.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>calle 21 con 20</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.735102</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.899084</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>media</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>no</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.735102,5.899083999999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="2572F90119C3C0FB3A05F">
+				<name>PF26</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 22<br>ALTURA: 8<br>DIRECCION: calle 21 con 20<br>LONGITUDE: -74.734841<br>LATITUDE: 5.899131<br>TIPO DE TENSION: media<br># TRANSFORMADOR: no<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_01C9043BED3D83DA7DFF</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>22.0</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>8.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>calle 21 con 20</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.734841</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.899131</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>media</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>no</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.734841,5.899130999999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="265C111AD583C0FB3A05F">
+				<name>PF25</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 23.6<br>ALTURA: 8<br>DIRECCION: calle 21 con 20<br>LONGITUDE: -74.734644<br>LATITUDE: 5.899171<br>TIPO DE TENSION: media<br># TRANSFORMADOR: no<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_01C9043BED3D83DA7DFF</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>23.6</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>8.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>calle 21 con 20</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.734644</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.899171</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>media</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>no</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.734644,5.899171,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="27D1DDC5A993C0FB3A05F">
+				<name>PF24</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 37.3<br>ALTURA: 8<br>DIRECCION: calle 21 con 19<br>LONGITUDE: -74.734506<br>LATITUDE: 5.899184<br>TIPO DE TENSION: media<br># TRANSFORMADOR: no<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_01C9043BED3D83DA7DFF</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>37.3</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>8.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>calle 21 con 19</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.734506</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.899184</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>media</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>no</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.734506,5.899184,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="285BDBF9F8A3C0FB3A05F">
+				<name>PF23</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 18.3<br>ALTURA: 8<br>DIRECCION: calle 21 con 19<br>LONGITUDE: -74.734119<br>LATITUDE: 5.899268<br>TIPO DE TENSION: media<br># TRANSFORMADOR: no<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: no<br>TELEFONIA: no<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_01C9043BED3D83DA7DFF</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>18.3</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>8.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>calle 21 con 19</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.734119</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.899268</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>media</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>no</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>no</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>no</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.73411900000001,5.899268,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="2919FEE2A8C3C0FB3A05F">
+				<name>PF22</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 25.3<br>ALTURA: 8<br>DIRECCION: calle 21 con 19<br>LONGITUDE: -74.73392<br>LATITUDE: 5.899304<br>TIPO DE TENSION: media<br># TRANSFORMADOR: no<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: no<br>TELEFONIA: no<br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_0A23D27AE23D83D999A8</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>25.3</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>8.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>calle 21 con 19</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.73392</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.899304</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>media</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>no</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>no</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>no</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.73392,5.899304,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="2ABAB2812173C0FB3A05F">
+				<name>PF21</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: <br>ALTURA: <br>DIRECCION: <br>LONGITUDE: -74.733757<br>LATITUDE: 5.899334<br>TIPO DE TENSION: <br># TRANSFORMADOR: <br>SECUNDARIA: <br>FIBRA OPTICA: <br>TELEVISION: no<br>TELEFONIA: <br>unnamed (1):]]></description>
+				<styleUrl>#__managed_style_01C9043BED3D83DA7DFF</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+					</Data>
+					<Data name="ALTURA">
+					</Data>
+					<Data name="DIRECCION">
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.733757</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.899334</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+					</Data>
+					<Data name="# TRANSFORMADOR">
+					</Data>
+					<Data name="SECUNDARIA">
+					</Data>
+					<Data name="FIBRA OPTICA">
+					</Data>
+					<Data name="TELEVISION">
+						<value>no</value>
+					</Data>
+					<Data name="TELEFONIA">
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.733757,5.899334000000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="2E3D6E458623C0FB3A05F">
+				<name>53</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 85<br>ALTURA: 12<br>DIRECCION: Autopista Medelli-puerto triunfó<br>LONGITUDE: <br>LATITUDE: <br>TIPO DE TENSION: alta<br># TRANSFORMADOR: 141940<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>85.0</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>12.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Autopista Medelli-puerto triunfó</value>
+					</Data>
+					<Data name="LONGITUDE">
+					</Data>
+					<Data name="LATITUDE">
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>alta</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>141940</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+			</Placemark>
+		</Folder>
+		<Folder id="31535F538493C0FB3A05F">
+			<name>Poste de camara</name>
+			<Placemark id="33DC85D430B3C0FB3A05F">
+				<name>Cámara 2: Autopista Medellin Brusty Carbon</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: <br>ALTURA: <br>DIRECCION: <br>LONGITUDE: -74.7336138<br>LATITUDE: 5.8987045<br>TIPO DE TENSION: <br># TRANSFORMADOR: <br>SECUNDARIA: <br>FIBRA OPTICA: <br>TELEVISION: <br>TELEFONIA: <br>unnamed (1):]]></description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+					</Data>
+					<Data name="ALTURA">
+					</Data>
+					<Data name="DIRECCION">
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.7336138</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.8987045</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+					</Data>
+					<Data name="# TRANSFORMADOR">
+					</Data>
+					<Data name="SECUNDARIA">
+					</Data>
+					<Data name="FIBRA OPTICA">
+					</Data>
+					<Data name="TELEVISION">
+					</Data>
+					<Data name="TELEFONIA">
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.7336138,5.8987045,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="3430431DC343C0FB3A05F">
+				<name>Cámara 3: Hotel Yahaya</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 19<br>ALTURA: 14<br>DIRECCION: calle 21 con 17<br>LONGITUDE: -74.73676356<br>LATITUDE: 5.898353806<br>TIPO DE TENSION: <br># TRANSFORMADOR: <br>SECUNDARIA: <br>FIBRA OPTICA: <br>TELEVISION: <br>TELEFONIA: <br>unnamed (1):]]></description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>19.0</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>14.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>calle 21 con 17</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.73676356</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.898353806</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+					</Data>
+					<Data name="# TRANSFORMADOR">
+					</Data>
+					<Data name="SECUNDARIA">
+					</Data>
+					<Data name="FIBRA OPTICA">
+					</Data>
+					<Data name="TELEVISION">
+					</Data>
+					<Data name="TELEFONIA">
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.73676356,5.898353806,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="359338B7F983C0FB3A05F">
+				<name>cámara 4</name>
+				<description><![CDATA[DISTANCIA POSTE A POSTE METROS: 45.4<br>ALTURA: 12<br>DIRECCION: Autopista Medelli-puerto triunfó <br>LONGITUDE: -74.73988819<br>LATITUDE: 5.898112056<br>TIPO DE TENSION: alta<br># TRANSFORMADOR: no<br>SECUNDARIA: si<br>FIBRA OPTICA: si<br>TELEVISION: si<br>TELEFONIA: si<br>unnamed (1):]]></description>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<ExtendedData>
+					<Data name="DISTANCIA POSTE A POSTE METROS">
+						<value>45.4</value>
+					</Data>
+					<Data name="ALTURA">
+						<value>12.0</value>
+					</Data>
+					<Data name="DIRECCION">
+						<value>Autopista Medelli-puerto triunfó</value>
+					</Data>
+					<Data name="LONGITUDE">
+						<value>-74.73988819</value>
+					</Data>
+					<Data name="LATITUDE">
+						<value>5.898112056</value>
+					</Data>
+					<Data name="TIPO DE TENSION">
+						<value>alta</value>
+					</Data>
+					<Data name="# TRANSFORMADOR">
+						<value>no</value>
+					</Data>
+					<Data name="SECUNDARIA">
+						<value>si</value>
+					</Data>
+					<Data name="FIBRA OPTICA">
+						<value>si</value>
+					</Data>
+					<Data name="TELEVISION">
+						<value>si</value>
+					</Data>
+					<Data name="TELEFONIA">
+						<value>si</value>
+					</Data>
+					<Data name="unnamed (1)">
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-74.73988819,5.898112056,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder id="0635CC89393D83DFE0EE">
+			<name>Fibra Existente</name>
+			<visibility>0</visibility>
+			<styleUrl>#__managed_style_02F8E53AF13D83DE5783</styleUrl>
+			<Placemark id="0BF12EF8E23C3AB96CD8">
+				<name>Ruta F.O 3</name>
+				<LookAt>
+					<longitude>-74.7339385084788</longitude>
+					<latitude>5.89882670608334</latitude>
+					<altitude>239.5405823553239</altitude>
+					<heading>351.4055675037763</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>333.3838774117976</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_0047B148CC3D83D999A9</styleUrl>
+				<LineString>
+					<coordinates>
+						-74.73672704906346,5.898431181689523,0 -74.73660362200457,5.89836992749191,0 -74.7340067191127,5.898757747954408,0 -74.73404619997677,5.898586743299514,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark id="06040CD90A3C1A22AE55">
+				<name>Ruta F.O 1</name>
+				<LookAt>
+					<longitude>-74.73990279961517</longitude>
+					<latitude>5.898131174904529</latitude>
+					<altitude>240.0117161888061</altitude>
+					<heading>9.559050700722912</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>596.8183625733946</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_0047B148CC3D83D999A9</styleUrl>
+				<LineString>
+					<coordinates>
+						-74.73160151786378,5.901795631173662,0 -74.73212859398247,5.901809237592758,0 -74.73244261022835,5.901818555108732,0 -74.73247519118314,5.901972218790873,0 -74.73289044818637,5.901854864399402,0 -74.73344219226603,5.901723038738298,0 -74.73390489903778,5.901678507868356,0 -74.73399816717065,5.901368772117519,0 -74.73385246056003,5.900514674260446,0 -74.73377987590747,5.900114439396509,0 -74.73375316702459,5.899733810242401,0 -74.73359588212848,5.899780747948491,0 -74.73372331645227,5.899418859458458,0 -74.73376457047202,5.899354462994612,0 -74.73411137090334,5.89925021437824,0 -74.73454689633959,5.899176348892294,0 -74.73515454774987,5.899050267051289,0 -74.73564939658498,5.899031691050863,0 -74.7363696615551,5.898998813549601,0 -74.73674194032419,5.898418059625016,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark id="08ED42225F3C1A4346DA">
+				<name>Ruta F.O 2</name>
+				<LookAt>
+					<longitude>-74.73402125247212</longitude>
+					<latitude>5.898548126147764</latitude>
+					<altitude>239.7717267168996</altitude>
+					<heading>359.9990985009815</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>905.9666527474474</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_0047B148CC3D83D999A9</styleUrl>
+				<LineString>
+					<coordinates>
+						-74.73208088870693,5.899127668816269,0 -74.73387522195114,5.898796114404301,0 -74.7340148008861,5.898553340155028,0 -74.73402111322619,5.898548238805742,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder id="04EEA8FDFB3D83E07DF0">
+			<name>Puntos existentes</name>
+			<styleUrl>#__managed_style_02F8E53AF13D83DE5783</styleUrl>
+			<Placemark id="0A8A0257D73C1A25EE9A">
+				<name>CCM Doradal</name>
+				<LookAt>
+					<longitude>-74.73402507970492</longitude>
+					<latitude>5.898479706086357</latitude>
+					<altitude>239.8438511466008</altitude>
+					<heading>1.27939418235027</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>830.5877224264259</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_3D4D7D30043D83D999A8</styleUrl>
+				<Point>
+					<coordinates>-74.73402507970492,5.898479706086357,239.8438511466008</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="08578793CF3C1A1EDF1D">
+				<name>Camara autopista</name>
+				<LookAt>
+					<longitude>-74.73204861242054</longitude>
+					<latitude>5.899107716482357</latitude>
+					<altitude>238.5798968602697</altitude>
+					<heading>357.2548836467553</heading>
+					<tilt>0</tilt>
+					<gx:fovy>35</gx:fovy>
+					<range>954.2776700113609</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_061B2EB7C13D83D999AC</styleUrl>
+				<Point>
+					<coordinates>-74.73204861242054,5.899107716482357,238.5798968602697</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="045A3348DB3C2AAD9E7D">
+				<name>Cámara parque</name>
+				<LookAt>
+					<longitude>-74.73373354676146</longitude>
+					<latitude>5.899303056577475</latitude>
+					<altitude>238.6038896451105</altitude>
+					<heading>111.3746311334414</heading>
+					<tilt>0</tilt>
+					<gx:fovy>34.99997250699927</gx:fovy>
+					<range>277.0491460911217</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_3A01A984B83D83D999AB</styleUrl>
+				<Point>
+					<coordinates>-74.73373354676146,5.899303056577475,238.6038896451105</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="0721B54CB73C2AB188ED">
+				<name>Cámara 3 Esquina</name>
+				<LookAt>
+					<longitude>-74.73477153020485</longitude>
+					<latitude>5.900945221291455</latitude>
+					<altitude>236.317364066394</altitude>
+					<heading>12.75213220935443</heading>
+					<tilt>0</tilt>
+					<gx:fovy>34.99999999495724</gx:fovy>
+					<range>277.8246453881002</range>
+					<altitudeMode>absolute</altitudeMode>
+				</LookAt>
+				<styleUrl>#__managed_style_3A01A984B83D83D999AB</styleUrl>
+				<Point>
+					<coordinates>-74.73477153020485,5.900945221291454,236.317364066394</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder id="0BA83FAA703C63BF4B94">
+			<name>CONTRATO 677</name>
+			<styleUrl>#__managed_style_32E618ED753D83D999AC</styleUrl>
+			<Folder id="0EF623B7FE3C63BC59F8">
+				<name>Posteria</name>
+				<visibility>0</visibility>
+				<styleUrl>#__managed_style_32E618ED753D83D999AC</styleUrl>
+				<Placemark id="00638E07A93C2ACF5021">
+					<name>Poste #1</name>
+					<LookAt>
+						<longitude>-74.73219655309269</longitude>
+						<latitude>5.89894413020638</latitude>
+						<altitude>238.4083657072272</altitude>
+						<heading>71.5117602270544</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>516.7716028069117</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_64B66E52AD3D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73219655309269,5.89894413020638,238.4083657072272</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="009C165AB53C2ACF2503">
+					<name>Poste #2</name>
+					<LookAt>
+						<longitude>-74.7321208025003</longitude>
+						<latitude>5.89910374946679</latitude>
+						<altitude>238.7488051830344</altitude>
+						<heading>71.51176801156736</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>516.4311238723168</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_64B66E52AD3D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.7321208025003,5.89910374946679,238.7488051830344</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="048EB4D4DF3C2ACF7FCB">
+					<name>Poste #3</name>
+					<LookAt>
+						<longitude>-74.73195046215088</longitude>
+						<latitude>5.899247676365865</latitude>
+						<altitude>238.9895324718864</altitude>
+						<heading>71.51178552044323</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>516.1904013253662</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_64B66E52AD3D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73195046215088,5.899247676365865,238.9895324718864</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0659D2017F3C2ACFB493">
+					<name>Poste #4</name>
+					<LookAt>
+						<longitude>-74.73189008824068</longitude>
+						<latitude>5.899617491527965</latitude>
+						<altitude>239.367113019389</altitude>
+						<heading>71.51179172697418</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>515.8128382317956</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_64B66E52AD3D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73189008824068,5.899617491527965,239.367113019389</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0B8DB71A5E3C2ACFF61D">
+					<name>Poste #5</name>
+					<LookAt>
+						<longitude>-74.73183333598733</longitude>
+						<latitude>5.900088904401091</latitude>
+						<altitude>238.4929137687263</altitude>
+						<heading>80.29016732204033</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>708.1817674908235</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_64B66E52AD3D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73183333598733,5.900088904401091,238.4929137687263</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0A69856FCC3C2AD0455D">
+					<name>Poste #6</name>
+					<LookAt>
+						<longitude>-74.73174527927152</longitude>
+						<latitude>5.900639786613808</latitude>
+						<altitude>237.0962329044902</altitude>
+						<heading>80.29017637359057</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>709.5784959834418</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_64B66E52AD3D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73174527927152,5.900639786613808,237.0962329044902</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="048A764FCF3C2AD0C63D">
+					<name>Poste #7</name>
+					<LookAt>
+						<longitude>-74.73174475819999</longitude>
+						<latitude>5.90080689776937</latitude>
+						<altitude>236.2858913521956</altitude>
+						<heading>80.29023831893376</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>261.6911124929538</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_64B66E52AD3D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73174475819999,5.90080689776937,236.2858913521956</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="00FFEB58933C2AD1D851">
+					<name>Poste #8</name>
+					<LookAt>
+						<longitude>-74.73167003606542</longitude>
+						<latitude>5.900958482035967</latitude>
+						<altitude>236.1408624783005</altitude>
+						<heading>60.14292505367129</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>342.7455183916027</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_64B66E52AD3D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73167003606542,5.900958482035967,236.1408624783005</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0D80D95BE03C2AD640D2">
+					<name>Poste #9</name>
+					<LookAt>
+						<longitude>-74.73190113008276</longitude>
+						<latitude>5.900925445082201</latitude>
+						<altitude>236.8284221395135</altitude>
+						<heading>221.3657375588459</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>364.621950500914</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_64B66E52AD3D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73190113008276,5.900925445082201,236.8284221395135</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="045999A1C53C2AD79738">
+					<name>Poste #10</name>
+					<LookAt>
+						<longitude>-74.7320762280348</longitude>
+						<latitude>5.900988125802597</latitude>
+						<altitude>237.5921624362193</altitude>
+						<heading>274.4179242828265</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>352.6644183928148</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_64B66E52AD3D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.7320762280348,5.900988125802597,237.5921624362193</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0F7D821C603C2AD8FA71">
+					<name>Poste #11</name>
+					<LookAt>
+						<longitude>-74.73208723769433</longitude>
+						<latitude>5.901352919444622</latitude>
+						<altitude>237.4921714263087</altitude>
+						<heading>-6.676195245815771</heading>
+						<tilt>10.85458077628561</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>318.0006961183244</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_64B66E52AD3D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73208723769433,5.901352919444622,237.4921714263087</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="056C7805EF3C2AD9C547">
+					<name>Poste #12</name>
+					<LookAt>
+						<longitude>-74.73215614819193</longitude>
+						<latitude>5.901466552336678</latitude>
+						<altitude>237.8080813077207</altitude>
+						<heading>-3.982707732840219</heading>
+						<tilt>9.871518948254558</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>228.8618972077893</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_64B66E52AD3D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73215614819193,5.901466552336678,237.8080813077207</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="05BB79AE0F3C2ADF9CDF">
+					<name>Poste #13</name>
+					<description><![CDATA[<div>Reservar de fibra óptica&nbsp;<br></div>]]></description>
+					<LookAt>
+						<longitude>-74.73208298810292</longitude>
+						<latitude>5.901752168748658</latitude>
+						<altitude>237.5426667703973</altitude>
+						<heading>4.21600470164367</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>224.2803811423437</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_9BAC5F2F963D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73208298810292,5.901752168748658,237.5426667703973</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0866A330003C2AE1155E">
+					<name>Poste #14</name>
+					<LookAt>
+						<longitude>-74.73220356967821</longitude>
+						<latitude>5.90177649758937</latitude>
+						<altitude>238.2423801569815</altitude>
+						<heading>4.216004701395044</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>367.4054411184262</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_64B66E52AD3D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73220356967821,5.90177649758937,238.2423801569815</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="080CC3615A3C2AE2239E">
+					<name>Poste #15</name>
+					<LookAt>
+						<longitude>-74.73239718754505</longitude>
+						<latitude>5.901769334007214</latitude>
+						<altitude>239.1273343201913</altitude>
+						<heading>298.3365226021609</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>282.2034038143466</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_64B66E52AD3D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73239718754505,5.901769334007214,239.1273343201913</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="036FC783FB3C2AE34889">
+					<name>Poste #16</name>
+					<LookAt>
+						<longitude>-74.73244917087889</longitude>
+						<latitude>5.901836136954737</latitude>
+						<altitude>239.6758124435728</altitude>
+						<heading>351.9307931504145</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>208.6145953798769</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_64B66E52AD3D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73244917087889,5.901836136954737,239.6758124435728</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0AFB3F7FC73C2AE6C060">
+					<name>Poste #17</name>
+					<LookAt>
+						<longitude>-74.7328049709615</longitude>
+						<latitude>5.901799424621517</latitude>
+						<altitude>239.3278893475903</altitude>
+						<heading>347.153585934927</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>359.5979045308923</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_64B66E52AD3D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.7328049709615,5.901799424621517,239.3278893475903</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="025E33DCF43C2AE94F24">
+					<name>Poste #18</name>
+					<LookAt>
+						<longitude>-74.73302446502377</longitude>
+						<latitude>5.901743529914286</latitude>
+						<altitude>238.9129738423414</altitude>
+						<heading>0</heading>
+						<tilt>0</tilt>
+						<gx:fovy>34.99974904096279</gx:fovy>
+						<range>301.5315052292499</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73291766857271,5.901772397168362,238.9129738423414</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="082DF882973C2AEA67D4">
+					<name>Poste #19</name>
+					<LookAt>
+						<longitude>-74.7330824155917</longitude>
+						<latitude>5.901738427116904</latitude>
+						<altitude>239.0891879866122</altitude>
+						<heading>187.2705200613549</heading>
+						<tilt>0</tilt>
+						<gx:fovy>34.99999502532774</gx:fovy>
+						<range>360.4245336120584</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73302972193619,5.901755804050983,239.0891879866122</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="097DA341C63C2AEB631B">
+					<name>Poste #20</name>
+					<LookAt>
+						<longitude>-74.73317228914951</longitude>
+						<latitude>5.901728015390044</latitude>
+						<altitude>238.8422097880528</altitude>
+						<heading>269.8124693313202</heading>
+						<tilt>0</tilt>
+						<gx:fovy>34.99994845285114</gx:fovy>
+						<range>181.1444119082807</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73317228914951,5.901728015390044,238.8422097880528</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="09DD4A87363C2AEE661D">
+					<name>Poste #21</name>
+					<LookAt>
+						<longitude>-74.73339602103685</longitude>
+						<latitude>5.901744728933891</latitude>
+						<altitude>238.2495575029493</altitude>
+						<heading>269.8123031359956</heading>
+						<tilt>0</tilt>
+						<gx:fovy>34.99994845285114</gx:fovy>
+						<range>276.0249279754135</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73339602103685,5.901744728933891,238.2495575029493</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0EA336393F3C2AEF4E13">
+					<name>Poste #22</name>
+					<LookAt>
+						<longitude>-74.73359411705287</longitude>
+						<latitude>5.901717211386502</latitude>
+						<altitude>237.6815515150753</altitude>
+						<heading>269.8122765560143</heading>
+						<tilt>0</tilt>
+						<gx:fovy>34.99994845285114</gx:fovy>
+						<range>276.5929414029234</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73359411705287,5.901717211386502,237.6815515150753</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="004F1C55813C2AF082EE">
+					<name>Poste #23</name>
+					<LookAt>
+						<longitude>-74.73369053811506</longitude>
+						<latitude>5.901708249813183</latitude>
+						<altitude>237.3396332139305</altitude>
+						<heading>-90.29869754082021</heading>
+						<tilt>2.101800732370438</tilt>
+						<gx:fovy>34.99994845285114</gx:fovy>
+						<range>153.155154510223</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73369053811506,5.901708249813183,237.3396332139305</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="035E2B9D143C2AF10CEB">
+					<name>Poste #24</name>
+					<LookAt>
+						<longitude>-74.73390245651314</longitude>
+						<latitude>5.901611636836564</latitude>
+						<altitude>237.0078109797194</altitude>
+						<heading>-90.29872286551988</heading>
+						<tilt>2.101822684501617</tilt>
+						<gx:fovy>34.99994845285114</gx:fovy>
+						<range>219.7169899595974</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73390245651314,5.901611636836564,237.0078109797194</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0D89340A323C2AF389AC">
+					<name>Poste #25</name>
+					<LookAt>
+						<longitude>-74.73408056585617</longitude>
+						<latitude>5.901613029730678</latitude>
+						<altitude>236.8366534678558</altitude>
+						<heading>291.743868539572</heading>
+						<tilt>0</tilt>
+						<gx:fovy>34.99999999597664</gx:fovy>
+						<range>355.7378144231189</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73408056585617,5.901613029730678,236.8366534678558</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0C19C62F8E3C2AF469A7">
+					<name>Poste 26</name>
+					<LookAt>
+						<longitude>-74.73432188016191</longitude>
+						<latitude>5.901615758018664</latitude>
+						<altitude>237.0338847335739</altitude>
+						<heading>291.7438218688893</heading>
+						<tilt>0</tilt>
+						<gx:fovy>34.99999999597664</gx:fovy>
+						<range>353.864067758077</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73432188016191,5.901615758018664,237.0338847335739</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="07D89A68F83C2AF6CD68">
+					<name>Poste #27</name>
+					<LookAt>
+						<longitude>-74.73445492945879</longitude>
+						<latitude>5.901602242624838</latitude>
+						<altitude>236.8394932104164</altitude>
+						<heading>359.9973081348075</heading>
+						<tilt>0</tilt>
+						<gx:fovy>34.99999999999954</gx:fovy>
+						<range>196.2216952454037</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73445492945879,5.901602242624838,236.8394932104164</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="07EE15DA5F3C2AF758E4">
+					<name>Poste #28</name>
+					<LookAt>
+						<longitude>-74.73461549626178</longitude>
+						<latitude>5.901576770481802</latitude>
+						<altitude>237.0912791806807</altitude>
+						<heading>359.9973001593531</heading>
+						<tilt>0</tilt>
+						<gx:fovy>34.99999999999954</gx:fovy>
+						<range>203.6219318793883</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73461549626178,5.901576770481802,237.0912791806807</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="028C5ACC333C2AF7F3F4">
+					<name>Poste #29</name>
+					<LookAt>
+						<longitude>-74.73475422785246</longitude>
+						<latitude>5.901506004075665</latitude>
+						<altitude>237.3360490296259</altitude>
+						<heading>256.7640655882107</heading>
+						<tilt>0</tilt>
+						<gx:fovy>34.99999999999954</gx:fovy>
+						<range>205.2826068735158</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73475422785246,5.901506004075665,237.3360490296259</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="05E8C987AB3C2AFA06EA">
+					<name>Poste #30</name>
+					<LookAt>
+						<longitude>-74.73477012779873</longitude>
+						<latitude>5.901366931222626</latitude>
+						<altitude>237.0470178483245</altitude>
+						<heading>298.1714750838676</heading>
+						<tilt>0</tilt>
+						<gx:fovy>34.99999999999954</gx:fovy>
+						<range>221.4874108866934</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73478078828653,5.901363276715492,237.0470178483245</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0B483492973C2AFB2EFB">
+					<name>Poste #31</name>
+					<LookAt>
+						<longitude>-74.73476279937628</longitude>
+						<latitude>5.901098916007872</latitude>
+						<altitude>236.5491425709926</altitude>
+						<heading>259.6199117412057</heading>
+						<tilt>0</tilt>
+						<gx:fovy>34.99999999999954</gx:fovy>
+						<range>484.9232171714539</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73476279937628,5.901098916007873,236.5491425709926</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="07B07935723C2AFC3030">
+					<name>Poste #32</name>
+					<description><![CDATA[<div>Reserva de fibra óptica para entornos educativos&nbsp;<br></div>]]></description>
+					<LookAt>
+						<longitude>-74.734760036311</longitude>
+						<latitude>5.900911552165167</latitude>
+						<altitude>236.2968235753582</altitude>
+						<heading>159.314727521829</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>88.6860940398401</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0B199D3C123D83D999AE</styleUrl>
+					<Point>
+						<coordinates>-74.734760036311,5.900911552165167,236.2968235753582</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="09916F52EB3C2AFE753D">
+					<name>Poste #34</name>
+					<LookAt>
+						<longitude>-74.73480508989211</longitude>
+						<latitude>5.90096960700351</latitude>
+						<altitude>236.3772707324202</altitude>
+						<heading>331.8143164339896</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>68.06660052700863</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73480508989211,5.90096960700351,236.3772707324202</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0A7D4A8E7C3C2AFFB6C2">
+					<name>Poste #35</name>
+					<LookAt>
+						<longitude>-74.73493506040921</longitude>
+						<latitude>5.900960364247041</latitude>
+						<altitude>236.606348670397</altitude>
+						<heading>-98.78773032543597</heading>
+						<tilt>0.1093419449475256</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>147.1508815080779</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73493506040921,5.900960364247041,236.606348670397</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="05AACBBEFB3C2B003717">
+					<name>Poste #36</name>
+					<LookAt>
+						<longitude>-74.73517186431356</longitude>
+						<latitude>5.900937948316021</latitude>
+						<altitude>237.0253837831494</altitude>
+						<heading>-98.78775355938535</heading>
+						<tilt>0.1093441577219618</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>277.2949677099314</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73517186431356,5.900937948316021,237.0253837831494</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0E7DA6D6053C2B010E67">
+					<name>Poste #37</name>
+					<LookAt>
+						<longitude>-74.73542615152229</longitude>
+						<latitude>5.90096162674482</latitude>
+						<altitude>237.3771021162457</altitude>
+						<heading>-61.2017917400268</heading>
+						<tilt>0.1093457409861297</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>370.800356807049</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73542615152229,5.90096162674482,237.3771021162457</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="075B4FE68B3C2B02A573">
+					<name>Poste #38</name>
+					<LookAt>
+						<longitude>-74.73549522845873</longitude>
+						<latitude>5.900631603296479</latitude>
+						<altitude>237.5726473488313</altitude>
+						<heading>174.8775541595618</heading>
+						<tilt>0.109344296735929</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>289.7293093920599</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73549522845873,5.900631603296479,237.5726473488313</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0530F9E6F73C2B037331">
+					<name>Poste #39</name>
+					<LookAt>
+						<longitude>-74.73543116184517</longitude>
+						<latitude>5.900333545430557</latitude>
+						<altitude>237.7352311506592</altitude>
+						<heading>174.8775664959868</heading>
+						<tilt>0.1093476241521175</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>484.7601395823585</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73543116184517,5.900333545430557,237.7352311506592</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="067C5D51113C2B04D73A">
+					<name>Poste #40</name>
+					<LookAt>
+						<longitude>-74.73540169324555</longitude>
+						<latitude>5.89999650621777</latitude>
+						<altitude>238.177895322344</altitude>
+						<heading>191.5293316634865</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>236.677731375894</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73540169324555,5.89999650621777,238.177895322344</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0899408D963C2B080B1C">
+					<name>Poste #42</name>
+					<LookAt>
+						<longitude>-74.73590549073886</longitude>
+						<latitude>5.899977980103875</latitude>
+						<altitude>239.2439402326619</altitude>
+						<heading>-91.34878903378578</heading>
+						<tilt>0.5683383120208367</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>199.9524311711502</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73590549073886,5.899977980103875,239.2439402326619</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0A37204D0C3C2B09CC19">
+					<name>Poste #41</name>
+					<LookAt>
+						<longitude>-74.73570389220262</longitude>
+						<latitude>5.899992169879002</latitude>
+						<altitude>238.5092775881714</altitude>
+						<heading>268.6511911217398</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>297.7875580718683</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73570389220262,5.899992169879002,238.5092775881714</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0619D2B7273C2B0A050D">
+					<name>Poste #43</name>
+					<LookAt>
+						<longitude>-74.73622887062466</longitude>
+						<latitude>5.899836291243295</latitude>
+						<altitude>240.0044641635494</altitude>
+						<heading>359.9978333983076</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>192.6428189506623</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<ExtendedData>
+						<SchemaData schemaUrl="#__managed_schema">
+							<SimpleData name="073029F5243C2B0A050E">12</SimpleData>
+						</SchemaData>
+					</ExtendedData>
+					<Point>
+						<extrude>1</extrude>
+						<coordinates>-74.73614572205607,5.899905936032013,236.9637844577775</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="094E6200B23C2B0A81AC">
+					<name>Poste #44</name>
+					<LookAt>
+						<longitude>-74.73626019460171</longitude>
+						<latitude>5.899939836286127</latitude>
+						<altitude>239.9772453678175</altitude>
+						<heading>359.9978254181681</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>192.4563319862137</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73626019460171,5.899939836286127,239.9772453678175</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0C70A2101D3C2B0AD784">
+					<name>Poste #45</name>
+					<LookAt>
+						<longitude>-74.73635005822817</longitude>
+						<latitude>5.899880108293845</latitude>
+						<altitude>240.2364306041877</altitude>
+						<heading>359.9978235822148</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>192.1971716589724</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73635707276854,5.899871221868985,240.2364306041877</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0B8FF3A44D3C2B0C152D">
+					<name>Poste #46</name>
+					<LookAt>
+						<longitude>-74.73639263839002</longitude>
+						<latitude>5.899751875231445</latitude>
+						<altitude>240.4042894813553</altitude>
+						<heading>198.3950229078174</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>178.0360524693424</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73635015127182,5.899700970862084,240.4042894813553</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0AF60CE5903C2B0FF1AD">
+					<name>Poste #47</name>
+					<LookAt>
+						<longitude>-74.73635394150857</longitude>
+						<latitude>5.899498385832404</latitude>
+						<altitude>240.69866840707</altitude>
+						<heading>187.6971242469518</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>163.1227158812908</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73635394150857,5.899498385832404,240.69866840707</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="00E25B32B63C2B10F83E">
+					<name>Poste #48</name>
+					<LookAt>
+						<longitude>-74.73625145112011</longitude>
+						<latitude>5.899212811018748</latitude>
+						<altitude>241.1558546419864</altitude>
+						<heading>187.697084774703</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>313.6322285461939</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73625145112011,5.899212811018748,241.1558546419864</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="023A8D38ED3C2B147360">
+					<name>Poste #49</name>
+					<LookAt>
+						<longitude>-74.73635307204397</longitude>
+						<latitude>5.899069908352149</latitude>
+						<altitude>241.5622486066032</altitude>
+						<heading>187.6970272123435</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>362.3117464623283</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73635307204397,5.899069908352149,241.5622486066032</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="009DC0E2353C2B15874F">
+					<name>Poste #50</name>
+					<LookAt>
+						<longitude>-74.73645897621559</longitude>
+						<latitude>5.898877204982881</latitude>
+						<altitude>241.8258286745669</altitude>
+						<heading>199.0421605007135</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>243.3673428135081</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73645897621559,5.898877204982881,241.8258286745669</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0304BF8B233C2B170764">
+					<name>Poste #51</name>
+					<LookAt>
+						<longitude>-74.73658889541554</longitude>
+						<latitude>5.898634471530593</latitude>
+						<altitude>242.0008707189804</altitude>
+						<heading>199.0421127579887</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>266.6411292106205</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73658889541554,5.898634471530593,242.0008707189804</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0C03F111443C2B21C891">
+					<name>Poste #52</name>
+					<LookAt>
+						<longitude>-74.73680328961943</longitude>
+						<latitude>5.898644685247016</latitude>
+						<altitude>242.91512970006</altitude>
+						<heading>38.48134974768351</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>544.585046525026</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73680328961943,5.898644685247016,242.91512970006</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="087FB5D23D3C2B2226F0">
+					<name>Poste #53</name>
+					<LookAt>
+						<longitude>-74.73724128830513</longitude>
+						<latitude>5.89865193529349</latitude>
+						<altitude>245.1653267910237</altitude>
+						<heading>11.67366594145595</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>475.9073164412986</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73724128830513,5.89865193529349,245.1653267910237</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="00BE6028BA3C2B230672">
+					<name>Poste #54</name>
+					<LookAt>
+						<longitude>-74.73743099354184</longitude>
+						<latitude>5.898643626702954</latitude>
+						<altitude>245.8813599717802</altitude>
+						<heading>344.1607347271953</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>291.6967630913132</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73743099354184,5.898643626702954,245.8813599717802</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="05BB0D89193C2B23B5B8">
+					<name>Poste #55</name>
+					<LookAt>
+						<longitude>-74.73761137598331</longitude>
+						<latitude>5.898600275673565</latitude>
+						<altitude>246.0272656192889</altitude>
+						<heading>344.1607056927245</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>291.5508601033434</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73761137598331,5.898600275673565,246.0272656192889</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0A9D2D3AD63C2B254FCC">
+					<name>Poste #56</name>
+					<LookAt>
+						<longitude>-74.73783799482031</longitude>
+						<latitude>5.898870333288855</latitude>
+						<altitude>247.1247848734801</altitude>
+						<heading>292.695222575373</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>463.6519290038268</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73783799482031,5.898870333288855,247.1247848734801</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0C340ACEB23C2B260394">
+					<name>Poste #57</name>
+					<LookAt>
+						<longitude>-74.73801757274586</longitude>
+						<latitude>5.899122311962026</latitude>
+						<altitude>246.6487915346011</altitude>
+						<heading>-67.30479786667649</heading>
+						<tilt>3.388593346084572</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>488.5225129312312</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73801757274586,5.899122311962026,246.6487915346011</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="00DCD04BF33C2B27142D">
+					<name>Poste #58</name>
+					<LookAt>
+						<longitude>-74.73824077325051</longitude>
+						<latitude>5.899385884047512</latitude>
+						<altitude>245.3903976836552</altitude>
+						<heading>-67.30467960384978</heading>
+						<tilt>3.388575329525916</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>454.6276379827032</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73824077325051,5.899385884047512,245.3903976836552</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="05DBD0ED3D3C2B278F6D">
+					<name>Poste #59</name>
+					<LookAt>
+						<longitude>-74.73841497219551</longitude>
+						<latitude>5.899582628745931</latitude>
+						<altitude>245.0702879205163</altitude>
+						<heading>-67.30469962833916</heading>
+						<tilt>3.388599255953618</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>499.6445157600101</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73841497219551,5.899582628745931,245.0702879205163</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0915E8505A3C2B28F0B1">
+					<name>Poste #60</name>
+					<LookAt>
+						<longitude>-74.738538155969</longitude>
+						<latitude>5.899747212067247</latitude>
+						<altitude>244.6288679278539</altitude>
+						<heading>-67.30470492813038</heading>
+						<tilt>3.388569844153662</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>444.3096660757147</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.738538155969,5.899747212067247,244.6288679278539</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0C89B783D13C2B2A509A">
+					<name>Poste #61</name>
+					<LookAt>
+						<longitude>-74.73875427954948</longitude>
+						<latitude>5.899808608673521</latitude>
+						<altitude>245.6992184832569</altitude>
+						<heading>-77.92536790579641</heading>
+						<tilt>1.237989258539997</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>477.0037559566117</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73875427954948,5.899808608673521,245.6992184832569</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="04C69D61163C2B2C22DB">
+					<name>Poste #62</name>
+					<LookAt>
+						<longitude>-74.73890971303481</longitude>
+						<latitude>5.89999202191022</latitude>
+						<altitude>246.4253160442378</altitude>
+						<heading>-172.2015343922166</heading>
+						<tilt>1.237993485150542</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>498.7730380240828</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73890971303481,5.89999202191022,246.4253160442378</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0D06F237F23C2B2CDA33">
+					<name>Poste #63</name>
+					<LookAt>
+						<longitude>-74.73897340115296</longitude>
+						<latitude>5.899880424902308</latitude>
+						<altitude>246.5579278658647</altitude>
+						<heading>-172.2015355634322</heading>
+						<tilt>1.237947838583997</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>263.8242628500302</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73897340115296,5.899880424902307,246.5579278658647</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="05113305463C2B2E5688">
+					<name>Poste #64</name>
+					<LookAt>
+						<longitude>-74.73908869324305</longitude>
+						<latitude>5.899615806987562</latitude>
+						<altitude>245.9754420802095</altitude>
+						<heading>-172.2015532698327</heading>
+						<tilt>1.238023994406604</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>655.8258419418416</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73908869324305,5.899615806987562,245.9754420802095</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0C33FF6EBB3C2B2F91F2">
+					<name>Poste #65 - Nuevo</name>
+					<description><![CDATA[<div>Poste fibra 8 metros<br></div>]]></description>
+					<LookAt>
+						<longitude>-74.73920395029144</longitude>
+						<latitude>5.899568026824724</latitude>
+						<altitude>246.1383712486388</altitude>
+						<heading>-172.2015649233186</heading>
+						<tilt>1.237954463865427</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>297.9447949059249</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_03F43BDE193D83D999AF</styleUrl>
+					<Point>
+						<coordinates>-74.73920395029144,5.899568026824724,246.1383712486388</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0614AF85D33C2B30C17C">
+					<name>Poste #66</name>
+					<LookAt>
+						<longitude>-74.73943101519789</longitude>
+						<latitude>5.899605463417572</latitude>
+						<altitude>246.6677144855358</altitude>
+						<heading>-132.00584866478</heading>
+						<tilt>1.237965815322661</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>356.3863468308045</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73943101519789,5.899605463417572,246.6677144855358</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0E4ADF3D453C2B316383">
+					<name>Poste #67</name>
+					<LookAt>
+						<longitude>-74.73965834007116</longitude>
+						<latitude>5.899543873418904</latitude>
+						<altitude>247.0408798687035</altitude>
+						<heading>-132.005872031291</heading>
+						<tilt>1.237965742328107</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>356.0130947707149</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73965834007116,5.899543873418904,247.0408798687035</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="07C81F677B3C2B31EC50">
+					<name>Poste #68</name>
+					<LookAt>
+						<longitude>-74.73990361851386</longitude>
+						<latitude>5.8994107148395</latitude>
+						<altitude>245.7670839597581</altitude>
+						<heading>-132.0058978581268</heading>
+						<tilt>1.237987898052313</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>470.0572903628927</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73990361851386,5.8994107148395,245.7670839597581</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="00EECCDB753C2B329914">
+					<name>Poste #69</name>
+					<LookAt>
+						<longitude>-74.74003864216611</longitude>
+						<latitude>5.89923214812513</latitude>
+						<altitude>250.9949441825997</altitude>
+						<heading>-143.6329576355506</heading>
+						<tilt>1.237949614650668</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>273.011747348246</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.74003864216611,5.899232148125131,250.9949441825997</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="01D78AAB793C2B33DEB4">
+					<name>Poste #70</name>
+					<LookAt>
+						<longitude>-74.74004017792599</longitude>
+						<latitude>5.898931909776848</latitude>
+						<altitude>248.8283175320663</altitude>
+						<heading>-155.7099093354081</heading>
+						<tilt>1.238021722797823</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>644.1752044268651</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.74004017792599,5.898931909776848,248.8283175320663</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="04CEC6DF8A3C2B35A274">
+					<name>Poste #71</name>
+					<LookAt>
+						<longitude>-74.73987332276809</longitude>
+						<latitude>5.89871502834364</latitude>
+						<altitude>242.3697374312795</altitude>
+						<heading>-155.7098793448338</heading>
+						<tilt>1.237989089026856</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>476.2118700968858</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73987332276809,5.898715028343639,242.3697374312795</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0369F33EA93C2B373C9A">
+					<name>Poste #72</name>
+					<LookAt>
+						<longitude>-74.73970870482755</longitude>
+						<latitude>5.898339336691606</latitude>
+						<altitude>241.7041389811717</altitude>
+						<heading>-155.7098345469659</heading>
+						<tilt>1.23800901569923</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>578.8003749623022</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73970870482755,5.898339336691606,241.7041389811717</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="000D774DC83C2B381E81">
+					<name>Poste #73</name>
+					<LookAt>
+						<longitude>-74.73994133083265</longitude>
+						<latitude>5.898263201698353</latitude>
+						<altitude>240.2763281352632</altitude>
+						<heading>-155.7098582623967</heading>
+						<tilt>1.237959559860242</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>324.2455526018239</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73996232324269,5.898231535904358,240.2763281352632</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="01C53026333C2B38B58D">
+					<name>Poste #74</name>
+					<LookAt>
+						<longitude>-74.73994366741792</longitude>
+						<latitude>5.898120910196418</latitude>
+						<altitude>239.7531704003903</altitude>
+						<heading>116.018414106477</heading>
+						<tilt>1.237955833876429</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>305.0755919473522</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73994366741792,5.898120910196418,239.7531704003903</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0DDD3D3C393C2B3A7529">
+					<name>Poste #76</name>
+					<LookAt>
+						<longitude>-74.73952052333016</longitude>
+						<latitude>5.89809005769989</latitude>
+						<altitude>241.3905855248657</altitude>
+						<heading>116.018480163391</heading>
+						<tilt>1.237957193397985</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>312.0783559299162</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73952052333016,5.89809005769989,241.3905855248657</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0F058BD4883C2B3A9E94">
+					<name>Poste #77</name>
+					<LookAt>
+						<longitude>-74.73920498808504</longitude>
+						<latitude>5.89804287217052</latitude>
+						<altitude>241.7257915796554</altitude>
+						<heading>116.0185125877072</heading>
+						<tilt>1.237957128004545</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>311.7430687775777</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73927136221246,5.898030583622347,241.7257915796554</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0E6773988B3C2B3B4054">
+					<name>Poste #78</name>
+					<LookAt>
+						<longitude>-74.73871964405356</longitude>
+						<latitude>5.898043826021205</latitude>
+						<altitude>242.4253438109087</altitude>
+						<heading>116.01856558805</heading>
+						<tilt>1.237997838393216</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>521.2912810372655</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73871964405356,5.898043826021205,242.4253438109087</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="03F8C8B8893C2B3B6E60">
+					<name>Poste #79</name>
+					<LookAt>
+						<longitude>-74.73824611988839</longitude>
+						<latitude>5.898075117205943</latitude>
+						<altitude>243.7777381662911</altitude>
+						<heading>116.0186142490962</heading>
+						<tilt>1.237997575348849</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>519.9385436282319</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73824611988839,5.898075117205943,243.7777381662911</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="02A0CBE3653C2B3BA121">
+					<name>Poste #80</name>
+					<LookAt>
+						<longitude>-74.73770125910433</longitude>
+						<latitude>5.898143976702277</latitude>
+						<altitude>243.960354908773</altitude>
+						<heading>116.0186928051034</heading>
+						<tilt>1.238055535271705</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>818.2755035153241</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73770125910433,5.898143976702277,243.960354908773</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0352C88AEF3C2B3BCB6D">
+					<name>Poste #81</name>
+					<LookAt>
+						<longitude>-74.73733115072588</longitude>
+						<latitude>5.898188639041639</latitude>
+						<altitude>243.3092433579814</altitude>
+						<heading>116.0187308298681</heading>
+						<tilt>1.238055661569364</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>818.9267013469362</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73733115072588,5.898188639041639,243.3092433579814</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="03B5B542843C2B3BF17C">
+					<name>Poste #82</name>
+					<LookAt>
+						<longitude>-74.73711220923579</longitude>
+						<latitude>5.898202171574828</latitude>
+						<altitude>242.9126054820928</altitude>
+						<heading>116.0187519159469</heading>
+						<tilt>1.237965118057687</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>352.8809898812324</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73711220923579,5.898202171574828,242.9126054820928</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="02709DF5283C2B3C1BA7">
+					<name>Poste #83</name>
+					<LookAt>
+						<longitude>-74.73693717134471</longitude>
+						<latitude>5.898241207106396</latitude>
+						<altitude>242.4981356038213</altitude>
+						<heading>116.0187699037664</heading>
+						<tilt>1.237965198397697</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>353.2955676009806</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73693717134471,5.898241207106396,242.4981356038213</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="01A56C71C13C2B3CDCF8">
+					<name>Poste #85</name>
+					<LookAt>
+						<longitude>-74.73679155612031</longitude>
+						<latitude>5.898243632509901</latitude>
+						<altitude>241.9909856737335</altitude>
+						<heading>116.0187840743576</heading>
+						<tilt>1.237944653309679</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>247.5460322020808</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73679155612031,5.898243632509901,241.9909856737335</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0E7F23A0A73C2B3D69D8">
+					<name>Poste #86</name>
+					<LookAt>
+						<longitude>-74.7366802370754</longitude>
+						<latitude>5.898252680853813</latitude>
+						<altitude>241.64219241196</altitude>
+						<heading>116.0187881484516</heading>
+						<tilt>1.237924155174996</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>142.0417389820068</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.7366802370754,5.898252680853813,241.64219241196</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0BAA7A5D533C2B3D92E3">
+					<name>Poste #87</name>
+					<LookAt>
+						<longitude>-74.73660118768491</longitude>
+						<latitude>5.898258247670623</latitude>
+						<altitude>241.3899031819426</altitude>
+						<heading>116.0187962748623</heading>
+						<tilt>1.237924203968238</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>142.2941082726357</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_C1E5DD87433D83D999AC</styleUrl>
+					<Point>
+						<coordinates>-74.73660118768491,5.898258247670623,241.3899031819426</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder id="0762588CE73C63C1CE7E">
+				<name>Cierra Anillo FO</name>
+				<styleUrl>#__managed_style_32E618ED753D83D999AC</styleUrl>
+				<Placemark id="05A18C19553C2AF2A4C9">
+					<name>Tramo#1</name>
+					<LookAt>
+						<longitude>-74.73402874278717</longitude>
+						<latitude>5.901646904141768</latitude>
+						<altitude>237.0321476231463</altitude>
+						<heading>281.0535283881673</heading>
+						<tilt>0</tilt>
+						<gx:fovy>34.99994845285114</gx:fovy>
+						<range>124.4578678069229</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_3440D444023D83D999AF</styleUrl>
+					<LineString>
+						<coordinates>
+							-74.73220446060861,5.898948042321511,0 -74.73212442087282,5.89910713168786,0 -74.73206062607221,5.899103259277707,0 -74.73213249930421,5.899109887349981,0 -74.73195431197765,5.899248230438428,0 -74.73189531758656,5.899618720029156,0 -74.7318398908692,5.900089119658222,0 -74.73176026584184,5.900646284624971,0 -74.73175733461838,5.900806985078595,0 -74.73167680122678,5.90096342102123,0 -74.73190033936424,5.90092105767693,0 -74.73208624455302,5.900993978996335,0 -74.73209331398614,5.901354252197064,0 -74.73216819161647,5.901472719873151,0 -74.73209037853957,5.901754242564196,0 -74.73221257302214,5.901783059406124,0 -74.73240719731204,5.901776168924271,0 -74.73245631609942,5.901836314193688,0 -74.73281992848571,5.901800477179083,0 -74.73292128578404,5.901775209323365,0 -74.73303704771133,5.901764926768548,0 -74.73316887357262,5.901728530749577,0 -74.73339815535299,5.901749160059464,0 -74.73359300195405,5.901721140449341,0 -74.73370204760845,5.901702977942493,0 -74.73390071489115,5.9016210926622,0 -74.73410735705573,5.901627019121934,0 -74.73419058167879,5.901624146196038,0 -74.73425803502217,5.901623454017487,0 -74.7343274566098,5.90162406421829,0 -74.73435014953334,5.901615666658889,0 -74.73445974271831,5.901605471543847,0 -74.73462485819049,5.901595557135818,0 -74.73475061964105,5.901503223606065,0 -74.73478045980661,5.901360169581347,0 -74.7347624958052,5.901084694184424,0 -74.73475701711153,5.900903400776319,0 -74.73477716389608,5.90094734621352,0 -74.73481984990414,5.900963965395992,0 -74.73494219302752,5.900960368049248,0 -74.73519464343899,5.900934423096335,0 -74.73544488285037,5.900966315639349,0 -74.73553241703476,5.900630716161551,0 -74.735502251696,5.900632505501225,0 -74.73546520741665,5.900391473187391,0 -74.73542956914908,5.899958252508791,0 -74.73571583377237,5.899981273029685,0 -74.73593055759426,5.899967501363831,0 -74.7361537225854,5.899880929998647,0 -74.73627153438079,5.89992620470856,0 -74.73636414350139,5.899874740789088,0 -74.73635888270432,5.899662826605885,0 -74.7363654783335,5.899466452692089,0 -74.73629597493246,5.89922445628671,0 -74.73636749313954,5.899048084889716,0 -74.73648004088497,5.898859803348229,0 -74.73660109404943,5.898616135260226,0 -74.73683900963837,5.898632703818576,0 -74.73723990217292,5.898637559595643,0 -74.73762561595206,5.898559154967851,0 -74.73782904030426,5.8988146951576,0 -74.73799934691549,5.899120672521058,0 -74.73839216373145,5.899550309826266,0 -74.73855680579679,5.899716507992033,0 -74.73878710693842,5.899783243583139,0 -74.73891935964986,5.899990202057121,0 -74.73901424468663,5.899807388189745,0 -74.73913740467962,5.899588570457473,0 -74.73942238096198,5.899575712980798,0 -74.73968390996774,5.89957333589437,0 -74.73990190888856,5.899451602708151,0 -74.74007363820743,5.899204173650142,0 -74.74006924365371,5.898898295738217,0 -74.73989818970419,5.898654638231171,0 -74.73971582492605,5.898328555252789,0 -74.73993005739658,5.898246355437384,0 -74.73994706205769,5.898114988947794,0 -74.73947576413937,5.89808731021976,0 -74.73923523321656,5.89801640834731,0 -74.73886073736242,5.898006628432584,0 -74.73868688944036,5.898027397082054,0 -74.73821967377377,5.898059280474732,0 -74.7376550862581,5.898133357329728,0 -74.73727491924438,5.898139619023052,0 -74.73708872110514,5.898182127146378,0 -74.73689865566581,5.898200038570091,0 -74.73678077426621,5.898240111585697,0 -74.73666518046058,5.898247645705226,0 -74.73658013183473,5.898241814437205,0 -74.73651957804439,5.898246215349394,0 -74.73664554734286,5.898387282370941,0 
+						</coordinates>
+					</LineString>
+				</Placemark>
+			</Folder>
+			<Folder id="0923EC28603C63C22E70">
+				<name>Reserva Fibra Optica</name>
+				<styleUrl>#__managed_style_32E618ED753D83D999AC</styleUrl>
+				<Placemark id="06EBECF47A3C3ABB5EE4">
+					<name>Reserva FO - Ingreso a Santorini</name>
+					<LookAt>
+						<longitude>-74.73893703636503</longitude>
+						<latitude>5.899977527206961</latitude>
+						<altitude>245.8638787201506</altitude>
+						<heading>351.404891056116</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>71.97164358874033</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_05B033D54A3D83D999B0</styleUrl>
+					<Point>
+						<coordinates>-74.7389254687034,5.899985377833417,245.7854918004301</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0F52F958283C3ABBB4C4">
+					<name>Reserva FO - Autopista Med Bog</name>
+					<LookAt>
+						<longitude>-74.73972193900937</longitude>
+						<latitude>5.898236160412046</latitude>
+						<altitude>241.0445860720193</altitude>
+						<heading>351.4048428783977</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>180.9165992841736</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_05B033D54A3D83D999B0</styleUrl>
+					<Point>
+						<coordinates>-74.73991058603835,5.898117481932315,239.8310274776996</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0EDB7F67F63C63C4C27C">
+					<name>Reserva FO - Cra 20</name>
+					<LookAt>
+						<longitude>-74.73474860161282</longitude>
+						<latitude>5.900919346271404</latitude>
+						<altitude>236.285831690814</altitude>
+						<heading>159.3146135594501</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>32.85922737913552</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_3D9CB2B0093D83D999B0</styleUrl>
+					<Point>
+						<coordinates>-74.734760036311,5.900911552165167,236.2968147323911</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0A0836BD2D3C63C3E6DC">
+					<name>Reserva FO - Cra 17B</name>
+					<LookAt>
+						<longitude>-74.7320955778742</longitude>
+						<latitude>5.901765964288034</latitude>
+						<altitude>237.7144255149034</altitude>
+						<heading>4.215883336219419</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>111.1222304072908</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_05B033D54A3D83D999B0</styleUrl>
+					<Point>
+						<coordinates>-74.73208138747819,5.901750971819618,237.5312159456196</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder id="07D51642AB3D83DE577C">
+				<name>Muflas</name>
+				<styleUrl>#__managed_style_02F8E53AF13D83DE5783</styleUrl>
+				<Placemark id="045AEC115D3C2A76FA31">
+					<name>Mufla #2</name>
+					<LookAt>
+						<longitude>-74.73652486760476</longitude>
+						<latitude>5.898260265258827</latitude>
+						<altitude>241.8297506047619</altitude>
+						<heading>350.8021424006322</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>76.51449362405401</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_33BA4CF0DA3D83D999A9</styleUrl>
+					<Point>
+						<coordinates>-74.73652486760476,5.898260265258827,241.8297506047619</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="00BA39E8573C2AFC7F59">
+					<name>Mufla #3</name>
+					<LookAt>
+						<longitude>-74.73476766185583</longitude>
+						<latitude>5.900908076607273</latitude>
+						<altitude>236.310435261418</altitude>
+						<heading>159.3147261975619</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>57.87365438536654</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_0D6F979C1F3D83D999AB</styleUrl>
+					<Point>
+						<coordinates>-74.73476766185583,5.900908076607273,236.310435261418</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="02CBDA8F0D3C2AD11152">
+					<name>Mufla #3</name>
+					<LookAt>
+						<longitude>-74.73221034730705</longitude>
+						<latitude>5.898948840914428</latitude>
+						<altitude>238.476045696445</altitude>
+						<heading>80.29021700429773</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>114.5346335946306</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_33BA4CF0DA3D83D999A9</styleUrl>
+					<Point>
+						<coordinates>-74.73221034730705,5.898948840914428,238.476045696445</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark id="0ED97CBABA3C2A4EFD5A">
+					<name>Mufla #1</name>
+					<LookAt>
+						<longitude>-74.73407372368605</longitude>
+						<latitude>5.898612692378055</latitude>
+						<altitude>239.9430913219715</altitude>
+						<heading>251.3715137102651</heading>
+						<tilt>0</tilt>
+						<gx:fovy>35</gx:fovy>
+						<range>53.81646197263763</range>
+						<altitudeMode>absolute</altitudeMode>
+					</LookAt>
+					<styleUrl>#__managed_style_33BA4CF0DA3D83D999A9</styleUrl>
+					<Point>
+						<coordinates>-74.73407372368605,5.898612692378055,239.9430913219715</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
